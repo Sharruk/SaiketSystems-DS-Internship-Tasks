@@ -1,92 +1,132 @@
 # SaiketSystems-DS-Internship-Tasks
 
-This repository contains all assigned **Data Science Internship Tasks** for **Saiket Systems**, including:
+This repository contains all the completed **Data Science Internship Tasks** assigned by **Saiket Systems**.
+The project demonstrates end-to-end data analysis, feature engineering, modeling, and business insights for a **Telecom Customer Churn Prediction** problem.
 
-- Data cleaning  
-- Exploratory Data Analysis (EDA)  
-- Data visualizations  
-- Feature engineering  
-- Model building & evaluation  
-- Submission files and reports  
-
-All tasks are organized clearly in separate folders for easy review and transparency.
+Each task is organized in a separate folder for clarity, transparency, and easy evaluation.
 
 ---
 
 ## 📁 Repository Structure
+
+```
 SaiketSystems-DS-Internship-Tasks/
 │
-├── Task-1/
-│ ├── dataset/
-│ ├── notebook.ipynb
-│ └── README.md
+├── Task-1_Data_Preparation/
+│   ├── dataset/
+│   ├── notebook.ipynb
+│   └── README.md
 │
-├── Task-2/
-│ ├── dataset/
-│ ├── notebook.ipynb
-│ └── README.md
+├── Task-2_Exploratory_Data_Analysis/
+│   ├── dataset/
+│   ├── notebook.ipynb
+│   └── README.md
 │
-├── Task-3/
-│ ├── dataset/
-│ ├── notebook.ipynb
-│ └── README.md
+├── Task-3_Customer_Segmentation/
+│   ├── dataset/
+│   ├── notebook.ipynb
+│   └── README.md
+│
+├── Task-4_Churn_Prediction_Model/
+│   ├── dataset/
+│   ├── notebook.ipynb
+│   └── README.md
+│
+├── Task-5_Model_Evaluation_Interpretation/
+│   ├── dataset/
+│   ├── notebook.ipynb
+│   └── README.md
+│
+├── Task-6_Business_Recommendations/
+│   ├── report.md
+│   └── README.md
 │
 ├── reports/
-│ └── final_report.pdf
+│   └── final_report.pdf
 │
 └── requirements.txt
-
-
-
----
-
-## 📌 **Task List**
-### **✔ Task 1 — Data Cleaning & EDA**
-- Handle missing values  
-- Remove duplicates  
-- Outlier detection  
-- Univariate & multivariate analysis  
-- Visualizations  
-
-### **✔ Task 2 — Feature Engineering**
-- Label encoding / One-hot encoding  
-- Feature scaling  
-- New feature creation  
-- Correlation study  
-
-### **✔ Task 3 — Model Building**
-- Train-test split  
-- Model training (Logistic Regression / Random Forest / XGBoost)  
-- Evaluation metrics (Accuracy, Precision, Recall, F1-score, AUC)  
-- Prediction output  
+```
 
 ---
 
-## 📊 **Technologies Used**
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Scikit-learn  
-- Jupyter Notebook  
+## 📌 Task Overview
+
+### **✔ Task 1 — Data Preparation**
+
+* Load and explore dataset
+* Handle missing values
+* Encode categorical variables
+* Remove duplicates & correct data types
+* Train-test split
+
+### **✔ Task 2 — Exploratory Data Analysis (EDA)**
+
+* Churn distribution analysis
+* Demographic patterns
+* Tenure & churn correlation
+* Contract type vs churn
+* Payment methods vs churn
+* Visualizations
+
+### **✔ Task 3 — Customer Segmentation**
+
+* Segment customers by tenure, contract type, and monthly charges
+* Identify high-risk & high-value segments
+* Churn comparison across segments
+
+### **✔ Task 4 — Churn Prediction Model**
+
+* Logistic Regression
+* Random Forest
+* XGBoost (if used)
+* Hyperparameter tuning
+* Performance metrics
+
+### **✔ Task 5 — Model Evaluation & Interpretation**
+
+* Confusion matrix
+* ROC Curve & AUC
+* Feature importance analysis
+* Interpretation of churn drivers
+
+### **✔ Task 6 — Business Recommendations**
+
+* Retention strategies
+* Customer engagement actions
+* Preventive interventions
+* Impact estimation
 
 ---
 
-## 📽 **Submission**
-All task submissions include:
-- Complete Jupyter Notebook  
-- GitHub repository  
-- Task completion video posted on LinkedIn (as required)
+## 🛠 Technologies Used
+
+* Python
+* Pandas, NumPy
+* Matplotlib, Seaborn
+* Scikit-learn
+* Jupyter Notebook
+* XGBoost (optional)
 
 ---
 
-## 🙌 **Acknowledgment**
-Thanks to **Saiket Systems** for the internship opportunity and the chance to learn and apply Data Science skills.
+## 📽 Submission Requirements (Completed)
+
+This repository includes:
+
+* Jupyter Notebooks for each task
+* Dataset used for analysis
+* Final report
+* Video submission (linked on LinkedIn)
+
+---
+
+## 🙌 Acknowledgment
+
+I sincerely thank **Saiket Systems** for providing this internship opportunity and a platform to strengthen my Data Science skills.
 
 ---
 
 ## 📬 Contact
-For any queries:  
-**Sharruk S**  
-📧 sharruk.cse@gmail.com  
+
+**Sharruk S**
+📧 [sharruk.cse@gmail.com](mailto:sharruk.cse@gmail.com)
