@@ -106,13 +106,17 @@ Fiber optic internet
 
 No security/tech support add-ons
 
-🚨 High-Risk Segments Identified
-Segment Description	Churn Risk
-Month-to-month + Electronic Check users	🔴 High
-Fiber Optic + No Online Security	🔴 High
-Tenure < 12 months	🔴 High
-Senior citizens with no partner/dependents	🟠 Medium
-High monthly charge customers	🟠 Medium
+## 🚨 High-Risk Segments Identified
+
+| Segment Description                              | Churn Risk |
+|--------------------------------------------------|------------|
+| Month-to-month + Electronic Check users           | 🔴 High    |
+| Fiber Optic + No Online Security                  | 🔴 High    |
+| Tenure < 12 months                                | 🔴 High    |
+| Senior citizens with no partner/dependents        | 🟠 Medium  |
+| High monthly charge customers                     | 🟠 Medium  |
+
+
 🧠 Key Takeaways
 
 Tenure and contract type are the strongest churn predictors
@@ -125,3 +129,4 @@ EDA reveals actionable segments for targeted interventions
 
 ✔️ EDA Notebook: notebook.ipynb
 ✔️ Cleaned Dataset Used: dataset/Telco_Customer_Churn_Dataset_cleaned.csv
+
