@@ -37,72 +37,67 @@ Task-2_Exploratory_Data_Analysis/
 └── dataset/
     └── Telco_Customer_Churn_Dataset_cleaned.csv
 ```
-📥 Dataset Used
+---
 
-Dataset: Telco_Customer_Churn_Dataset_cleaned.csv
+## 📥 Dataset Used
 
-Source: Output of Task-1 (Data Preparation)
+- **Dataset:** Telco_Customer_Churn_Dataset_cleaned.csv  
+- **Source:** Output of Task-1 (Data Preparation)  
+- **Rows:** 7,043  
+- **Columns:** 32  
+- **Target Variable:** `Churn_Yes` (1 = Churned, 0 = Retained)  
 
-Rows: 7,043
+The dataset contains **no missing values**, and all categorical variables are **encoded**.
 
-Columns: 32
+---
 
-Target Variable: Churn_Yes (1 = Churned, 0 = Retained)
+## 📊 EDA Summary
 
-The dataset contains no missing values, and all categorical variables are encoded.
+### 🔹 Churn Distribution
+- ~26.5% of customers have churned  
+- Dataset is moderately imbalanced (common in telecom datasets)
 
-📊 EDA Summary
-🔹 Churn Distribution
+---
 
-~26.5% of customers have churned
+### 🔹 Demographic Patterns
+- Customers without a partner or dependents show higher churn  
+- Gender has minimal impact on churn behavior  
 
-Dataset is moderately imbalanced (common in telecom datasets)
+---
 
-🔹 Demographic Patterns
+### 🔹 Tenure Behavior
+- Churn is highest among customers with tenure < 12 months  
+- Long-term customers (24+ months) are less likely to churn  
 
-Customers without a partner or dependents show higher churn
+---
 
-Gender has minimal impact on churn behavior
+### 🔹 Service Usage Insights
+- Fiber optic users churn more than DSL users  
+- Lack of security or tech support services increases churn  
 
-🔹 Tenure Behavior
+---
 
-Churn is highest among customers with tenure < 12 months
+### 🔹 Contract & Billing Behavior
+- Month-to-month customers are at highest risk  
+- 1-year and 2-year contracts significantly reduce churn  
+- Electronic check users show much higher churn  
 
-Long-term customers (24+ months) are less likely to churn
+---
 
-🔹 Service Usage Insights
+### 🔹 Numerical Feature Insights
+- High monthly charges correlate with churn  
+- Low total charges indicate recently acquired customers with higher churn  
 
-Fiber optic users churn more than DSL users
+---
 
-Lack of security or tech support services increases churn
+### 🔹 Correlation Analysis
 
-🔹 Contract & Billing Behavior
-
-Month-to-month customers are at highest risk
-
-1-year and 2-year contracts significantly reduce churn
-
-Electronic check users show much higher churn
-
-🔹 Numerical Feature Insights
-
-High monthly charges correlate with churn
-
-Low total charges indicate recently acquired customers with higher churn
-
-🔹 Correlation Analysis
-
-Top features correlated with churn:
-
-Low tenure
-
-Month-to-month contract
-
-Electronic check payment method
-
-Fiber optic internet service
-
-No security or tech support add-ons
+**Top features correlated with churn:**
+- Low tenure  
+- Month-to-month contract  
+- Electronic check payment method  
+- Fiber optic internet service  
+- No security or tech support add-ons  
 
 ## 🚨 High-Risk Segments Identified
 
@@ -127,5 +122,6 @@ EDA reveals actionable segments for targeted interventions
 
 ✔️ EDA Notebook: notebook.ipynb
 ✔️ Cleaned Dataset Used: dataset/Telco_Customer_Churn_Dataset_cleaned.csv
+
 
 
