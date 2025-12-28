@@ -26,7 +26,7 @@ To clean, preprocess, and encode the Telco Customer Churn dataset by:
 ---
 
 ## 📂 Folder Structure
-'''bash
+```bash
 Task-1_Data_Preparation/
 │
 ├── README.md
@@ -34,7 +34,7 @@ Task-1_Data_Preparation/
 └── dataset/
     ├── Telco_Customer_Churn_Dataset.csv
     └── Telco_Customer_Churn_Dataset_cleaned.csv
-'''
+```
 ---
 
 ## 📥 Dataset Description
@@ -158,3 +158,4 @@ This dataset is used in:
 * **Task 4:** Churn Prediction Modeling
 
 ---
+
