@@ -37,7 +37,6 @@ Task-2_Exploratory_Data_Analysis/
 └── dataset/
     └── Telco_Customer_Churn_Dataset_cleaned.csv
 ```
-
 📥 Dataset Used
 
 Dataset: Telco_Customer_Churn_Dataset_cleaned.csv
@@ -48,17 +47,16 @@ Rows: 7,043
 
 Columns: 32
 
-Target Variable: Churn_Yes
+Target Variable: Churn_Yes (1 = Churned, 0 = Retained)
 
-The dataset contains no missing values and all categorical variables are encoded.
-
+The dataset contains no missing values, and all categorical variables are encoded.
 
 📊 EDA Summary
 🔹 Churn Distribution
 
 ~26.5% of customers have churned
 
-Dataset is moderately imbalanced (common in telecom)
+Dataset is moderately imbalanced (common in telecom datasets)
 
 🔹 Demographic Patterns
 
@@ -78,19 +76,19 @@ Fiber optic users churn more than DSL users
 
 Lack of security or tech support services increases churn
 
-🔹 Contract & Billing
+🔹 Contract & Billing Behavior
 
 Month-to-month customers are at highest risk
 
-1-year and 2-year contracts reduce churn significantly
+1-year and 2-year contracts significantly reduce churn
 
-Electronic check users show much higher churn than others
+Electronic check users show much higher churn
 
 🔹 Numerical Feature Insights
 
 High monthly charges correlate with churn
 
-Low total charges → recently acquired customers → more churn
+Low total charges indicate recently acquired customers with higher churn
 
 🔹 Correlation Analysis
 
@@ -100,11 +98,11 @@ Low tenure
 
 Month-to-month contract
 
-Electronic check
+Electronic check payment method
 
-Fiber optic internet
+Fiber optic internet service
 
-No security/tech support add-ons
+No security or tech support add-ons
 
 ## 🚨 High-Risk Segments Identified
 
@@ -129,4 +127,5 @@ EDA reveals actionable segments for targeted interventions
 
 ✔️ EDA Notebook: notebook.ipynb
 ✔️ Cleaned Dataset Used: dataset/Telco_Customer_Churn_Dataset_cleaned.csv
+
 
