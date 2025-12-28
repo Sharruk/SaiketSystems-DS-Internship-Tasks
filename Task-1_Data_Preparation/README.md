@@ -145,6 +145,13 @@ Task-1_Data_Preparation/
 
 ---
 
+🧠 Key Outcome
+
+The dataset is now fully cleaned, encoded, and validated, ensuring
+high-quality input for exploratory analysis, segmentation, and
+predictive modeling in subsequent tasks.
+
+
 ## 📦 Output
 
 ✔️ **Cleaned Dataset:**
@@ -158,4 +165,5 @@ This dataset is used in:
 * **Task 4:** Churn Prediction Modeling
 
 ---
+
 
