@@ -120,8 +120,10 @@ EDA reveals actionable segments for targeted interventions
 
 📦 Output
 
-✔️ EDA Notebook: notebook.ipynb
-✔️ Cleaned Dataset Used: dataset/Telco_Customer_Churn_Dataset_cleaned.csv
+- ✔️ EDA Notebook: notebook.ipynb
+
+- ✔️ Cleaned Dataset Used: dataset/Telco_Customer_Churn_Dataset_cleaned.csv
+
 
 
 
