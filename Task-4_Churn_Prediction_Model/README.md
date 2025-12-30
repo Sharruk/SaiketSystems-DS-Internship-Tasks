@@ -1,59 +1,69 @@
 📌 Task 4: Churn Prediction Model
 🎯 Objective
 
-The objective of this task is to build and evaluate machine learning models to predict customer churn in a telecommunications company.
+The objective of this task is to build, evaluate, and compare machine learning models to predict customer churn in a telecommunications company.
 
-Multiple classification algorithms are implemented and compared using appropriate evaluation metrics. The best-performing model is then selected for further evaluation, interpretation, and business recommendations.
+Multiple classification algorithms are implemented and evaluated using appropriate performance metrics.
+The best-performing model is selected for further interpretation and business recommendations.
 
 📂 Dataset Used
 
-Source: Cleaned dataset from Task 1
+Source: Cleaned dataset from Task 1 – Data Preparation
 
-File: Telco_Customer_Churn_Dataset_cleaned.csv
+File Name: Telco_Customer_Churn_Dataset_cleaned.csv
 
-The dataset contains customer demographic details, service usage information, contract details, and churn labels.
+The dataset includes:
+
+Customer demographics
+
+Service usage details
+
+Contract and billing information
+
+Churn labels
 
 ⚙️ Machine Learning Workflow
 
-The churn prediction pipeline follows these key steps:
+The churn prediction pipeline follows these steps:
 
 Data loading and inspection
 
 Feature–target separation
 
-Train–test split using stratified sampling
+Stratified train–test split
 
 Feature scaling (where applicable)
 
 Model training and evaluation
 
-Model comparison and selection
+Model comparison and final selection
 
 🎯 Target Variable
 
-Target: Churn_Yes
+Target Column: Churn_Yes
 
-Type: Binary classification
+Problem Type: Binary Classification
 
-1 → Customer churned
-
-0 → Customer retained
-
+Value	Meaning
+1	Customer churned
+0	Customer retained
 🔀 Train–Test Split
 
-Training set: 80%
+Training Set: 80%
 
-Testing set: 20%
+Testing Set: 20%
 
-Stratification: Applied to preserve churn distribution
+Sampling Strategy: Stratified
 
-This ensures fair evaluation and prevents class imbalance bias.
+Stratification ensures the churn distribution remains consistent across training and testing datasets.
 
 ⚖️ Feature Scaling
 
-Feature scaling is applied only to Logistic Regression using StandardScaler, as it is sensitive to feature magnitudes.
+Applied To: Logistic Regression
 
-Tree-based models (Decision Tree and Random Forest) do not require scaling.
+Scaler Used: StandardScaler
+
+Tree-based models (Decision Tree and Random Forest) do not require feature scaling.
 
 🤖 Models Implemented
 1️⃣ Logistic Regression
@@ -74,7 +84,7 @@ Balanced class weights applied
 
 3️⃣ Random Forest Classifier
 
-Ensemble of decision trees
+Ensemble of multiple decision trees
 
 Reduces overfitting
 
@@ -94,9 +104,11 @@ Recall
 
 F1-score
 
-Due to class imbalance in churn data, F1-score is prioritized.
+🚨 Since churn data is imbalanced, F1-score is prioritized.
 
-Additionally, ROC-AUC is calculated for the Random Forest model to assess its ranking ability.
+Additionally:
+
+ROC-AUC is calculated for the Random Forest model to assess ranking performance.
 
 📈 Model Performance Summary
 Model	Accuracy	Precision	Recall	F1-Score	ROC-AUC
@@ -116,29 +128,29 @@ Strong balance between precision and recall
 
 High ROC-AUC score
 
-Therefore, Random Forest was selected as the final churn prediction model.
+➡️ Random Forest is selected as the final churn prediction model.
 
 🧠 Key Takeaways
 
-Ensemble methods outperform individual classifiers for churn prediction
+Ensemble models outperform individual classifiers for churn prediction
 
 Handling class imbalance significantly improves recall
 
-F1-score is a more reliable metric than accuracy for churn problems
+F1-score is more reliable than accuracy for churn-related problems
 
 📌 Next Steps
 
-Detailed evaluation and interpretation of the final model
+The following analyses are covered in Task 5:
 
-ROC curve analysis and confusion matrix
+ROC curve analysis
 
-Feature importance analysis
+Confusion matrix evaluation
+
+Feature importance interpretation
 
 Business-driven churn reduction recommendations
 
-These steps are addressed in Task 5: Model Evaluation and Interpretation.
-
-📁 Files in This Directory
+📁 Project Structure
 Task-4_Churn_Prediction_Model/
 │
 ├── README.md
