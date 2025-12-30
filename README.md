@@ -28,12 +28,10 @@ SaiketSystems-DS-Internship-Tasks/
 │   └── README.md
 │
 ├── Task-4_Churn_Prediction_Model/
-│   ├── dataset/
 │   ├── notebook.ipynb
 │   └── README.md
 │
 ├── Task-5_Model_Evaluation_Interpretation/
-│   ├── dataset/
 │   ├── notebook.ipynb
 │   └── README.md
 │
