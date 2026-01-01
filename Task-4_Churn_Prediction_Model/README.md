@@ -1,4 +1,4 @@
-Task 4: Churn Prediction Model
+# 📊 Task 4: Churn Prediction Model
 
 ## 🎯 Objective
 
@@ -206,3 +206,4 @@ If you want next:
 * 🧾 Resume bullet points from this project
 
 Just tell me 👍
+
