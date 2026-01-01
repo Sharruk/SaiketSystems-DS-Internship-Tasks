@@ -111,10 +111,13 @@ Additionally:
 ROC-AUC is calculated for the Random Forest model to assess ranking performance.
 
 📈 Model Performance Summary
-Model	Accuracy	Precision	Recall	F1-Score	ROC-AUC
-Logistic Regression	0.740	0.506	0.786	0.616	—
-Decision Tree	0.731	0.493	0.484	0.489	—
-Random Forest	0.773	0.553	0.757	0.639	0.843
+
+| Model               | Accuracy  | Precision | Recall    | F1-Score  | ROC-AUC   |
+| ------------------- | --------- | --------- | --------- | --------- | --------- |
+| Logistic Regression | 0.740     | 0.506     | 0.786     | 0.616     | —         |
+| Decision Tree       | 0.731     | 0.493     | 0.484     | 0.489     | —         |
+| **Random Forest**   | **0.773** | **0.553** | **0.757** | **0.639** | **0.843** |
+
 
 Note: ROC-AUC is reported only for Random Forest, as it provides reliable probability estimates.
 
@@ -155,3 +158,4 @@ Task-4_Churn_Prediction_Model/
 │
 ├── README.md
 └── notebook.ipynb
+
