@@ -154,8 +154,10 @@ Feature importance interpretation
 Business-driven churn reduction recommendations
 
 📁 Project Structure
+```bash
 Task-4_Churn_Prediction_Model/
 │
 ├── README.md
 └── notebook.ipynb
+```
 
