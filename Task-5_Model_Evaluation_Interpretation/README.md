@@ -1,171 +1,171 @@
-# 📌 Task 5: Model Evaluation and Interpretation
-
-**Saiket Systems – Data Science Internship**
-
----
+# 📊 Task 5: Model Evaluation and Interpretation
 
 ## 🎯 Objective
 
-The objective of this task is to **evaluate the final churn prediction model**
-using the testing dataset and **interpret the key factors influencing customer churn**.
+The objective of this task is to **evaluate and interpret the final churn prediction model**
+selected in  **Task-4** .
 
-This task focuses on:
+The **best-performing Random Forest model** is evaluated on unseen test data to assess
+its real-world performance and extract **business-relevant insights** that explain
+customer churn behavior.
 
-- Evaluating model performance using classification metrics  
-- Analyzing ROC curve and AUC score  
-- Interpreting feature importance to understand churn drivers  
+To ensure  **consistency and reproducibility** , the model trained and saved in Task-4
+is loaded directly without retraining.
 
 ---
 
 ## 📂 Dataset Used
 
-- **Source:** Cleaned dataset from **Task 1 – Data Preparation**
-- **File Name:** `Telco_Customer_Churn_Dataset_cleaned.csv`
+* **Source:** Cleaned dataset from **Task-1 – Data Preparation**
+* **File Name:** `Telco_Customer_Churn_Dataset_cleaned.csv`
 
-The dataset contains customer demographics, service details, billing information,
-and churn labels.
+The dataset contains:
 
----
-
-## ⚙️ Model Used
-
-Based on **Task 4 – Model Comparison**, the **Random Forest Classifier** was selected
-as the final model due to its superior overall performance.
-
-### Model Configuration
-
-- Number of trees: 200  
-- Class imbalance handled using `class_weight="balanced"`  
-- Random state set for reproducibility  
+* Customer demographics
+* Service usage details
+* Contract and billing information
+* Churn labels
 
 ---
 
-## 🔀 Train–Test Strategy
+## 🧩 Feature–Target Definition
 
-- **Training Set:** 80%  
-- **Testing Set:** 20%  
-- **Sampling Method:** Stratified  
-
-Stratification ensures the churn distribution remains consistent across splits.
-
----
-
-## 📊 Model Evaluation Metrics
-
-The model is evaluated on the test dataset using:
-
-- Accuracy  
-- Precision  
-- Recall  
-- F1-score  
-- ROC-AUC  
-
-Since churn prediction is an imbalanced classification problem, **F1-score and ROC-AUC**
-are emphasized over accuracy.
+* **Target Variable:** `Churn_Yes`
+  * `1` → Customer churned
+  * `0` → Customer retained
+* **Features:**
+  All columns except `customerID` and `Churn_Yes`
 
 ---
 
-## 📈 Model Performance Results
+## 🔀 Train–Test Split
 
-| Metric     | Score |
-|-----------|-------|
-| Accuracy  | 0.794 |
-| Precision | 0.645 |
-| Recall    | 0.500 |
-| F1-Score  | 0.563 |
-| ROC-AUC   | 0.826 |
+The dataset is split using **stratified sampling** to preserve the original churn
+distribution.
 
----
-
-## 🔍 Confusion Matrix Analysis
-
-The confusion matrix provides insight into:
-
-- Correct predictions  
-- False positives  
-- False negatives  
-
-False negatives are particularly critical, as failing to identify a churn-prone
-customer may result in revenue loss.
-
-The confusion matrix visualization helps assess the balance between churn detection
-and incorrect churn predictions.
+* **Training Set:** 80%
+* **Testing Set:** 20%
+* **Random State:** 42
 
 ---
 
-## 📉 ROC Curve Analysis
+## 🤖 Final Model Used
+
+* **Model:** Random Forest Classifier
+* **Source:** Loaded from **Task-4**
+* **File:** `best_random_forest_model.pkl`
+
+### Why reuse the saved model?
+
+* Ensures consistent performance metrics
+* Avoids retraining bias
+* Reflects real-world deployment scenarios
+
+---
+
+## 📊 Model Performance Evaluation
+
+The final model is evaluated using the following classification metrics:
+
+* Accuracy
+* Precision
+* Recall
+* F1-Score
+* ROC-AUC
+
+### 📈 Evaluation Results
+
+| Metric    | Value |
+| --------- | ----- |
+| Accuracy  | 0.773 |
+| Precision | 0.553 |
+| Recall    | 0.757 |
+| F1-Score  | 0.639 |
+| ROC-AUC   | 0.843 |
+
+⚠️ Since churn data is  **imbalanced** ,  **Recall** ,  **F1-Score** , and **ROC-AUC**
+are prioritized to reduce missed churners.
+
+---
+
+## 📉 Confusion Matrix Analysis
+
+The confusion matrix provides a detailed breakdown of correct and incorrect predictions.
+
+* **True Positives:** Correctly identified churners
+* **False Negatives:** Churners predicted as non-churners (high business cost)
+
+Minimizing false negatives is crucial, as they represent customers who may leave
+without preventive retention actions.
+
+---
+
+## 📈 ROC Curve and AUC Analysis
 
 The ROC curve illustrates the model’s ability to distinguish between churned and
-non-churned customers across various threshold values.
+non-churned customers across different classification thresholds.
 
-- A higher AUC score indicates better ranking performance  
-- The model achieves a **strong ROC-AUC of 0.826**, indicating good separation capability  
+* **AUC Score:** 0.84
+* Indicates strong discriminatory power
+* Confirms stable and reliable ranking performance
 
 ---
 
-## 🧠 Feature Importance Analysis
+## 🔍 Feature Importance Analysis
 
-Random Forest provides feature importance scores that highlight the most influential
-factors contributing to customer churn.
+Random Forest feature importance is used to interpret the factors that most influence
+customer churn.
 
 ### 🔝 Top Influential Features
 
-| Feature | Importance |
-|-------|------------|
-| TotalCharges | High |
-| tenure | High |
-| MonthlyCharges | High |
-| Contract_Two year | Moderate |
-| InternetService_Fiber optic | Moderate |
-| PaymentMethod_Electronic check | Moderate |
-| Contract_One year | Moderate |
-| OnlineSecurity_Yes | Moderate |
-| gender_Male | Low |
-| PaperlessBilling_Yes | Low |
+* **Tenure** – New customers are more likely to churn
+* **TotalCharges** – Reflects customer lifetime value
+* **MonthlyCharges** – Higher charges increase churn risk
+* **Contract Type (Two-Year / One-Year)** – Long-term contracts reduce churn
+* **Payment Method (Electronic Check)** – Strongly associated with churn
+* **Internet & Support Services** – Service quality impacts retention
+
+⚠️ Feature importance represents  **relative influence** , not causation, and should
+be interpreted alongside EDA and business understanding.
 
 ---
 
 ## 📊 Feature Importance Visualization
 
-The top 10 features are visualized to provide a clear understanding of their
-relative contribution to churn prediction.
+The top 10 most influential features are visualized using a horizontal bar chart to
+clearly highlight the strongest churn drivers.
 
-This visualization helps bridge the gap between **model performance** and
-**business interpretation**.
-
----
-
-## 🧠 Final Interpretation and Business Insights
-
-The analysis reveals several important churn drivers:
-
-- Customers on **short-term contracts** are more likely to churn  
-- **Low-tenure customers** exhibit higher churn risk  
-- **Higher monthly charges** increase churn probability  
-- **Payment method** plays a significant role in customer retention  
-- Internet and streaming services influence churn behavior  
+This visualization helps translate model outputs into  **actionable business insights** .
 
 ---
 
-## 📌 Business Recommendations
+## 🧠 Business Insights & Recommendations
 
-Based on model interpretation:
+Based on the model interpretation:
 
-- Introduce incentives for long-term contracts  
-- Target new customers with retention-focused onboarding programs  
-- Optimize pricing strategies for high monthly charge customers  
-- Encourage stable payment methods  
-- Improve service bundling for internet and streaming services  
+* Offer incentives to **new customers** during early tenure
+* Encourage **long-term contracts** to reduce churn risk
+* Review pricing strategies for customers with **high monthly charges**
+* Promote alternative **payment methods** over electronic checks
+* Improve **internet and support service quality**
+
+These insights can directly support customer retention strategies and decision-making.
 
 ---
 
-## 🏁 Task 5 Completion Summary
+## 🏁 Conclusion
 
-✔ Final model evaluated on test data  
-✔ Confusion matrix analyzed  
-✔ ROC curve and AUC evaluated  
-✔ Feature importance interpreted  
-✔ Actionable business insights extracted  
+This task successfully evaluated and interpreted the final churn prediction model
+selected in Task-4.
+
+The **Random Forest model** demonstrates:
+
+* Strong predictive performance
+* High discrimination ability (ROC-AUC > 0.8)
+* Clear interpretability through feature importance
+
+The model is **ready for deployment** and provides meaningful insights to guide
+business-level churn reduction strategies.
 
 ---
 
@@ -176,3 +176,6 @@ Task-5_Model_Evaluation_and_Interpretation/
 │
 ├── README.md
 └── notebook.ipynb
+```
+
+---

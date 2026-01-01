@@ -192,12 +192,12 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 7100-FQPRV,0,43,71.9,3173.35,True,True,True,True,False,True,False,False,False,True,False,False,False,False,False,True,False,False,False,True,True,False,True,True,False,False,False
 2472-OVKUP,0,6,91.0,531.0,True,True,False,True,False,False,True,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False,True,False,True,False,True
 2984-RGEYA,0,69,19.75,1375.4,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False,False
-9680-NIAUV,0,72,109.7,8037.867479999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,False,True,False,True,False,True,False,False,False
+9680-NIAUV,0,72,109.7,8039.255999999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,False,True,False,True,False,True,False,False,False
 2146-EGVDT,0,59,19.3,1192.7,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False
 2604-IJPDU,0,20,96.55,1901.65,False,True,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False,True,False,False,False,False,True,False,True,False,False
 9178-JHUVJ,0,24,24.1,587.4,True,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,False,False,False
 6168-YBYNP,0,59,111.35,6519.75,True,False,False,True,False,True,True,False,False,False,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False
-7255-SSFBC,0,72,112.25,8037.867479999999,True,True,True,True,False,True,True,False,False,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+7255-SSFBC,0,72,112.25,8039.255999999999,True,True,True,True,False,True,True,False,False,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 3645-DEYGF,0,1,20.75,20.75,True,False,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
 9323-HGFWY,0,27,101.9,2681.15,False,True,False,True,False,False,True,False,False,True,False,False,False,False,False,True,False,True,False,True,True,False,True,True,False,False,False
 8544-GOQSH,0,14,80.05,1112.3,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False
@@ -255,7 +255,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 3282-ZISZV,0,32,83.7,2633.3,True,False,True,True,False,True,False,False,False,False,False,True,False,True,False,True,False,True,False,True,True,False,False,True,False,False,False
 3675-YDUPJ,0,10,19.85,193.05,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,False,True,False
 4111-BNXIF,0,67,59.55,4103.9,False,True,True,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
-7017-VFHAY,0,61,114.71682,7008.15,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
+7017-VFHAY,0,61,114.729,7008.15,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
 6655-LHBYW,0,50,114.35,5791.1,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,True,False,False,False
 4959-JOSRX,0,2,44.6,80.55,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True
 5046-NUHWD,1,29,45.0,1228.65,False,True,False,False,True,False,False,False,False,True,False,False,False,True,False,False,False,False,False,True,False,False,True,False,True,False,False
@@ -311,7 +311,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4091-TVOCN,0,48,78.75,3682.45,True,False,True,True,False,True,False,False,False,True,False,False,False,True,False,False,False,True,False,True,True,False,True,True,False,False,False
 1098-TDVUQ,0,1,19.25,19.9,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,False,False,False
 7277-OZCGZ,0,22,89.05,1886.25,False,False,False,True,False,False,True,False,False,True,False,False,False,False,False,True,False,False,False,True,False,False,True,False,True,False,False
-1557-EMYVT,0,43,114.71682,4895.1,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
+1557-EMYVT,0,43,114.729,4895.1,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
 2799-ARNLO,1,5,69.35,341.6,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
 7563-BIUPC,0,5,80.6,415.55,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,True
 5027-YOCXN,0,51,110.05,5686.4,True,True,True,True,False,True,True,False,False,True,False,True,False,False,False,True,False,True,False,True,True,False,False,True,False,False,False
@@ -368,7 +368,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 9069-LGEUL,0,23,59.95,1406.0,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False
 7302-ZHMHP,0,1,19.2,19.9,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
 9571-EDEBV,0,71,98.65,6962.85,True,True,False,True,False,True,True,False,False,False,False,False,False,True,False,False,False,True,False,True,True,False,True,True,False,False,False
-3520-FJGCV,0,72,112.6,8037.867479999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+3520-FJGCV,0,72,112.6,8039.255999999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 6563-VRERX,0,33,20.6,690.25,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False
 0259-GBZSH,0,2,85.65,181.5,True,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,True
 6122-EFVKN,0,24,35.75,830.8,True,False,True,False,True,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,True,False
@@ -436,7 +436,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 6048-NJXHX,0,41,19.75,899.45,True,True,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,True,False,False
 2320-SLKMB,0,26,44.45,1183.8,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,True,False,True,False,False,False,False,True,True,False,False,False
 4980-URKXC,0,36,20.85,720.05,True,True,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False
-4376-KFVRS,0,72,114.05,8037.867479999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+4376-KFVRS,0,72,114.05,8039.255999999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 5886-VLQVU,0,35,89.85,3161.2,True,True,False,True,False,True,True,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False
 3577-AMVUX,0,1,55.05,55.05,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,False
 0771-WLCLA,0,16,112.95,1882.55,False,True,True,True,False,True,True,False,False,True,False,False,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False
@@ -463,7 +463,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 6614-VBEGU,0,24,69.45,1614.05,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,True,False,False,True,False,False,False,False
 0880-TKATG,0,4,101.15,385.9,True,True,True,True,False,True,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,False,False,True,False,True
 3811-VBYBZ,0,7,99.8,673.25,True,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,True,False,True,False,False,True,False,True,False,True
-1480-BKXGA,1,72,114.71682,8037.867479999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+1480-BKXGA,1,72,114.729,8039.255999999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 2996-XAUVF,0,70,40.05,2799.75,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,True,True,False,False,True,False
 9076-AXYIK,1,64,102.1,6538.45,True,True,False,True,False,True,True,False,False,False,False,False,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False
 5968-XQIVE,0,72,89.7,6588.95,True,True,True,True,False,True,True,False,False,False,False,True,False,False,False,False,False,True,False,False,True,False,True,False,True,False,False
@@ -499,7 +499,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 0505-SPOOW,0,70,19.8,1397.65,False,True,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False,False
 6235-VDHOM,1,5,28.45,131.05,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True
 7783-YKGDV,0,12,99.7,1238.45,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,False,False,False,False,True,False,False,True,False,False,False,True
-4374-YMUSQ,0,34,114.71682,3899.05,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,True,False,False,False
+4374-YMUSQ,0,34,114.729,3899.05,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,True,False,False,False
 4513-CXYIX,1,71,80.7,5676.0,False,True,False,True,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False
 3957-HHLMR,0,70,65.2,4543.15,False,True,True,True,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False
 7803-XOCCZ,0,52,84.05,4326.8,False,True,True,True,False,False,True,False,False,True,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False
@@ -525,7 +525,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 6825-UYPFK,0,23,75.6,1758.6,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
 8397-MVTAZ,0,34,100.05,3480.0,True,True,False,True,False,True,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,True,False,True,False,True
 0750-EBAIU,0,52,91.25,4738.3,True,False,False,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True,False,False,False,True,False,False
-8606-CIQUL,1,72,114.71682,8037.867479999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+8606-CIQUL,1,72,114.729,8039.255999999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 3571-DPYUH,0,58,94.7,5430.35,True,True,True,True,False,True,True,False,False,False,False,True,False,False,False,True,False,True,False,False,True,False,True,True,False,False,False
 7601-GNDYK,0,35,19.6,686.95,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
 0356-OBMAC,1,56,99.9,5706.3,False,False,False,True,False,True,True,False,False,False,False,True,False,True,False,True,False,True,False,False,False,True,True,False,False,False,False
@@ -539,7 +539,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 5844-QVTAT,0,33,58.45,1955.4,False,True,True,True,False,False,False,False,False,True,False,True,False,True,False,False,False,False,False,False,True,False,True,False,False,True,False
 8905-IAZPF,0,69,95.65,6744.2,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,True,False,True,True,False,True,True,False,False,False
 5394-MEITZ,0,60,80.6,4946.7,False,True,True,True,False,False,False,False,False,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
-6859-QNXIQ,0,72,113.1,8037.867479999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+6859-QNXIQ,0,72,113.1,8039.255999999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 2782-LFZVW,0,11,58.95,601.6,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,True,False
 2866-IKBTM,0,1,19.55,19.9,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
 1342-JPNKI,0,10,86.05,834.1,True,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,True
@@ -550,7 +550,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4676-MQUEA,1,50,101.9,5265.5,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,False,False,True,False,True,False,False,False,False
 8138-EALND,0,15,19.75,311.6,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
 3580-HYCSP,0,72,110.3,7966.9,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,False,True,False,True,True,False,False,False,False
-1352-HNSAW,0,72,114.71682,8037.867479999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+1352-HNSAW,0,72,114.729,8039.255999999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 2075-PUEPR,0,55,19.35,1153.25,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False,False
 1982-FEBTD,0,23,25.6,514.75,False,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,True,False,False,False
 5301-GAUUY,0,32,80.35,2596.15,True,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True
@@ -589,7 +589,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 8752-IMQOS,0,5,20.1,85.1,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False
 0742-LAFQK,0,72,99.15,7422.1,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,False,False,False,False,True,False,True,True,False,True,False,False
 0795-LAFGP,0,71,90.4,6668.05,True,True,True,True,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False
-0619-OLYUR,0,72,111.9,8037.867479999999,True,True,False,True,False,True,True,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+0619-OLYUR,0,72,111.9,8039.255999999999,True,True,False,True,False,True,True,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 5512-IDZEI,0,46,24.9,1174.8,True,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,False
 0459-SPZHJ,0,63,83.5,5435.0,True,True,True,True,False,True,False,False,False,True,False,True,False,True,False,False,False,True,False,True,False,True,False,True,False,False,False
 0215-BQKGS,0,30,84.3,2438.6,True,False,False,True,False,False,True,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False
@@ -607,7 +607,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4723-BEGSG,0,72,86.65,6094.25,True,True,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
 6516-NKQBO,0,38,81.0,3084.9,True,True,True,True,False,False,False,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
 8672-OAUPW,0,51,47.85,2356.75,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,True,False,False,False
-8207-DMRVL,0,72,114.55,8037.867479999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
+8207-DMRVL,0,72,114.55,8039.255999999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
 3419-SNJJD,1,65,105.25,6786.4,False,True,False,True,False,True,True,False,False,True,False,False,False,True,False,False,False,True,False,True,False,False,False,False,False,False,True
 6543-CPZMK,0,9,29.95,248.95,True,True,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
 4765-OXPPD,0,9,65.0,663.05,False,True,True,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,True,True
@@ -745,7 +745,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4018-PPNDW,0,61,24.1,1551.6,False,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,False,True,False
 1635-FJFCC,0,5,44.05,202.15,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False
 2499-AJYUA,1,72,110.8,7882.25,False,True,False,True,False,True,True,False,False,False,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
-6919-ELBGL,1,72,114.71682,8037.867479999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+6919-ELBGL,1,72,114.729,8039.255999999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 3966-HRMZA,1,3,75.05,202.9,False,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False
 6425-JWTDV,0,48,19.25,855.1,True,True,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
 8405-IGQFX,0,63,90.05,5817.0,False,False,False,True,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,False,True,False,True,True,False,False,False
@@ -774,7 +774,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 3900-AQPHZ,0,1,19.9,19.9,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,True
 5842-POCOP,0,5,88.9,454.15,False,True,False,True,False,False,True,False,False,True,False,False,False,True,False,False,False,False,False,True,False,False,True,False,False,True,True
 2037-XJFUP,0,33,95.8,3036.75,True,True,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,True,True,False,True,False,True,False,True
-8823-RLPWL,0,72,110.65,8037.867479999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,False,True,False,True,True,True,False,False,False
+8823-RLPWL,0,72,110.65,8039.255999999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,False,True,False,True,True,True,False,False,False
 9505-SQFSW,0,3,40.3,92.5,False,True,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False
 7314-OXENN,0,2,82.0,184.65,True,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
 3758-CKOQL,0,59,107.0,6152.3,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,False,False,True,True,False,True,True,False,False,False
@@ -849,7 +849,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 2316-ESMLS,0,12,33.15,444.75,False,True,True,False,True,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,True,False,False,True,False,False,False
 9778-OGKQZ,0,72,92.0,6782.15,True,True,False,True,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 7408-OFWXJ,0,72,89.8,6510.45,False,True,True,True,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
-6007-TCTST,0,72,114.71682,8037.867479999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+6007-TCTST,0,72,114.729,8039.255999999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 2252-NKNSI,0,52,85.15,4461.85,True,False,True,True,False,True,False,False,False,True,False,True,False,False,False,True,False,True,False,True,False,True,True,False,False,True,False
 8713-IGZSO,0,2,24.85,62.0,True,False,False,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
 7905-TVXTA,0,5,64.35,352.65,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False,True,False,False,False,False,True,False,True,False,False
@@ -895,7 +895,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 9227-LUNBG,0,1,24.6,24.6,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True
 7997-EASSD,0,63,81.2,4965.1,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,True,False,False,False
 0730-KOAVE,0,30,94.3,2679.7,True,False,False,True,False,True,True,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False
-8975-SKGRX,0,71,114.71682,8037.867479999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+8975-SKGRX,0,71,114.729,8039.255999999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 0678-RLHVP,0,53,105.55,5682.25,False,False,False,True,False,True,True,False,False,False,False,True,False,True,False,False,False,True,False,True,False,True,False,False,True,False,False
 4315-MURBD,0,12,98.9,1120.95,False,False,False,True,False,False,True,False,False,True,False,False,False,False,False,True,False,True,False,True,False,False,True,False,False,False,True
 2267-FPIMA,0,50,94.4,4914.9,True,True,False,True,False,True,True,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False
@@ -1060,7 +1060,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 2074-GKOWZ,0,2,89.55,185.55,True,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,False,False,True
 0376-YMCJC,0,23,90.6,1943.2,True,False,False,True,False,True,True,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,True,False,True,False,True
 6100-FJZDG,0,26,20.05,505.9,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False
-4829-ZLJTK,1,72,112.4,8037.867479999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,False,True,False,True,True,False,True,False,False
+4829-ZLJTK,1,72,112.4,8039.255999999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,False,True,False,True,True,False,True,False,False
 1730-VFMWO,0,34,50.2,1815.3,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
 7143-BQIBA,0,10,62.25,612.95,True,False,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False
 3800-LYTRK,0,14,55.7,795.15,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,True,False
@@ -1134,7 +1134,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 5293-WXJAK,1,11,104.05,1133.65,False,True,False,True,False,True,True,False,False,False,False,False,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True
 3156-QLHBO,0,2,19.25,48.35,True,False,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
 2208-NQBCT,0,26,81.95,2070.05,False,True,True,True,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
-1779-PWPMG,1,72,114.65,8037.867479999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+1779-PWPMG,1,72,114.65,8039.255999999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 6621-NRZAK,0,63,20.0,1209.25,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False
 0831-JNISG,0,71,19.8,1396.25,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
 0774-IFUVM,0,11,65.15,723.35,True,True,True,True,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False
@@ -1169,7 +1169,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4189-NAKJS,0,26,51.55,1295.4,True,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False
 5562-BETPV,0,1,19.65,19.9,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False
 1282-IHQAC,1,70,44.05,3011.65,True,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,False,False,True,False,True,True,False,False,False
-9127-FHJBZ,0,72,114.0,8037.867479999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
+9127-FHJBZ,0,72,114.0,8039.255999999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
 6270-OMFIW,0,60,94.4,5610.25,True,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,True,False,True,True,False,True,False,True,False,True
 1641-RQDAY,1,32,100.4,3217.65,False,True,True,True,False,True,True,False,False,False,False,True,False,False,False,False,False,True,False,True,False,False,True,False,True,False,False
 0107-WESLM,0,1,19.85,19.9,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,True,False,True
@@ -1268,7 +1268,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 1251-STYSZ,1,4,80.25,303.7,False,False,False,True,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
 2612-PHGOX,0,64,76.1,4818.8,True,True,False,True,False,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,True,True,False,False,False,False
 2408-TZMJL,0,59,110.15,6448.05,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,False,True,True,False,True,False,True,False,True
-8480-PPONV,0,62,114.71682,7159.05,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
+8480-PPONV,0,62,114.729,7159.05,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
 8780-IHCRN,0,63,24.65,1574.5,True,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False
 4598-ZADCK,0,53,53.6,2879.2,False,False,False,False,True,False,False,False,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,True,False,False
 1257-SXUXQ,0,5,19.45,86.05,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
@@ -1279,7 +1279,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4821-WQOYN,0,72,20.1,1326.25,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,True,False,False,False
 4730-AWNAU,0,36,60.7,2234.55,True,True,True,False,True,False,False,False,False,True,False,False,False,True,False,True,False,True,False,True,True,False,False,True,False,False,False
 3452-FLHYD,0,25,20.95,495.15,True,True,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False
-2388-LAESQ,1,72,114.71682,8037.867479999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+2388-LAESQ,1,72,114.729,8039.255999999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 9531-NSBMR,0,36,19.25,679.8,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False
 6260-ONULR,0,1,62.8,62.8,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,False,True,False
 4389-UEFCZ,0,72,105.5,7544.0,False,True,False,True,False,True,True,False,False,True,False,False,False,True,False,False,False,True,False,True,False,True,True,False,True,False,False
@@ -1305,7 +1305,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 0042-RLHYP,0,69,19.7,1396.9,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False,False
 8519-IMDHU,1,15,85.6,1345.55,True,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True
 4945-RVMTE,0,28,59.55,1646.45,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,True,False,False,False,False
-0201-OAMXR,0,70,114.71682,8037.867479999999,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,True,False,False,True
+0201-OAMXR,0,70,114.729,8039.255999999999,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,True,False,False,True
 1866-NXPSP,0,36,75.55,2680.15,False,False,False,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,True,True,False,True,False,False,True,False
 3372-KWFBM,1,16,86.6,1281.0,True,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,True
 7831-QGOXH,0,18,85.2,1553.9,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,True
@@ -1667,7 +1667,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 1219-NNDDO,0,9,76.85,663.55,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
 8388-DMKAE,0,8,20.25,174.65,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
 4403-BWPAY,0,14,24.8,321.7,True,False,False,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False
-9659-QEQSY,0,45,114.71682,5125.5,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False
+9659-QEQSY,0,45,114.729,5125.5,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False
 5405-ZMYXQ,0,8,74.6,548.9,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False
 5047-LHVLY,1,1,50.15,50.15,True,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,True,True
 1442-OKRJE,0,66,103.15,7031.3,True,True,True,True,False,False,True,False,False,True,False,True,False,True,False,False,False,True,False,True,True,False,True,False,False,False,False
@@ -1692,7 +1692,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 5740-YHGTW,0,70,97.55,6669.05,True,True,True,True,False,True,True,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False
 8917-SZTTJ,0,60,19.65,1161.75,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False
 1696-MZVAU,0,39,25.25,947.75,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False
-7359-WWYJV,0,72,114.45,8037.867479999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
+7359-WWYJV,0,72,114.45,8039.255999999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
 0375-HVGXO,0,1,34.7,34.7,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,True
 4906-ZHGPK,0,54,70.7,3770.0,True,True,True,True,False,True,False,False,False,False,False,True,False,False,False,True,False,True,False,False,True,False,True,False,True,False,False
 8593-WHYHV,0,3,85.3,264.8,True,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,True,False,True
@@ -1734,7 +1734,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 9705-IOVQQ,1,61,99.0,5969.3,True,True,True,True,False,True,True,False,False,False,False,True,False,False,False,False,False,True,False,True,True,False,False,False,True,False,False
 1015-OWJKI,0,1,19.2,19.9,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
 7511-YMXVQ,0,9,45.4,418.8,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,True,False,True
-2040-XBAVJ,0,72,114.45,8037.867479999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
+2040-XBAVJ,0,72,114.45,8039.255999999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
 7551-JOHTI,0,1,19.5,19.9,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,True
 8887-IPQNC,0,7,44.25,313.45,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False
 8646-JCOMS,0,66,90.55,6130.95,False,True,False,True,False,True,True,False,False,False,False,True,False,True,False,True,False,False,False,False,True,False,True,False,False,False,False
@@ -1745,7 +1745,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 3768-VHXQO,0,67,24.85,1583.5,True,True,False,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False
 8952-WCVCD,0,41,104.45,4162.05,False,True,False,True,False,False,True,False,False,True,False,True,False,True,False,False,False,True,False,True,True,False,True,False,False,False,False
 2418-TPEUN,0,56,19.8,1119.9,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,True,False,False,False
-3963-RYFNS,0,72,114.71682,8013.55,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+3963-RYFNS,0,72,114.729,8013.55,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 3198-VELRD,0,3,84.75,264.85,False,True,True,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True
 8540-ZQGEA,0,54,20.05,1102.4,False,True,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False
 1320-REHCS,1,52,110.75,5832.0,True,False,False,True,False,True,True,False,False,False,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False
@@ -1766,7 +1766,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 3902-MIVLE,0,63,75.7,4676.7,True,True,True,True,False,True,False,False,False,True,False,False,False,True,False,True,False,False,False,True,False,True,False,False,False,True,False
 0409-WTMPL,0,58,110.65,6526.65,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,False,True,True,False,True,True,False,False,False
 8763-KIAFH,0,27,20.55,583.3,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False
-3669-WHAFY,0,71,114.71682,8037.867479999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+3669-WHAFY,0,71,114.729,8039.255999999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 3055-VTCGS,0,63,58.55,3503.5,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,True,False,False,False
 3144-KMTWZ,0,71,93.25,6669.45,True,True,False,True,False,True,True,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False,True,False,False,False,False
 7279-BUYWN,1,41,113.2,4689.5,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,False,True,False,False,True,False,True,False,True
@@ -1874,7 +1874,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 9938-PRCVK,0,41,19.7,804.25,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False,False
 0973-KYVNF,0,72,70.65,5011.15,False,True,True,True,False,False,False,False,False,True,False,True,False,True,False,False,False,True,False,False,False,True,True,True,False,False,False
 5129-HHMZC,0,43,86.45,3574.5,False,True,False,True,False,True,False,False,False,True,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,False,False
-9637-CDTKZ,0,72,114.1,8037.867479999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+9637-CDTKZ,0,72,114.1,8039.255999999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 3946-JEWRQ,0,47,95.2,4563.0,True,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,True,True,False,False,False
 7873-CVMAW,0,72,88.55,6362.35,True,False,False,True,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
 0463-WZZKO,0,3,20.75,67.1,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,True,False,False,False
@@ -2024,7 +2024,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 5989-PGKJB,0,16,86.25,1340.1,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True,False,True,False,False
 4795-KTRTH,1,5,81.0,371.65,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
 8272-ONJLV,0,12,95.7,1184.0,True,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,True,True,False,False,False,True,False,False
-1488-PBLJN,0,72,114.71682,8037.867479999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+1488-PBLJN,0,72,114.729,8039.255999999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 0308-GIQJT,1,71,105.75,7382.85,True,False,False,True,False,True,True,False,False,False,False,True,False,False,False,True,False,True,False,True,True,False,False,False,False,False,False
 3778-FOAQW,0,24,20.15,456.85,False,True,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False
 4452-ROHMO,0,15,19.6,331.6,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
@@ -2114,7 +2114,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 8383-SGHJU,0,33,59.4,1952.8,False,False,False,True,False,True,False,False,False,True,False,False,False,False,False,True,False,False,False,False,True,False,False,False,True,False,False
 7607-QKKTJ,0,45,95.0,4368.85,True,True,True,True,False,True,True,False,False,False,False,True,False,True,False,False,False,False,False,True,True,False,True,True,False,False,False
 7707-PYBBH,0,40,61.9,2647.1,True,False,False,True,False,False,False,False,False,True,False,True,False,False,False,True,False,False,False,False,False,False,True,False,False,True,False
-8984-HPEMB,0,71,114.71682,8037.867479999999,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
+8984-HPEMB,0,71,114.729,8039.255999999999,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
 4349-GFQHK,0,1,54.35,54.35,True,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True
 4139-DETXS,0,72,64.45,4528.0,False,True,True,False,True,False,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
 9779-DPNEJ,0,22,80.15,1790.65,False,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,True,False,False
@@ -2145,7 +2145,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4079-VTGLK,1,30,74.85,2181.75,True,True,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False,True,False,True,False,False,True,False,False
 1763-WQFUK,0,3,50.5,147.75,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,True,False
 1391-UBDAR,0,11,72.9,818.45,True,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False
-8894-JVDCV,0,62,114.71682,7133.45,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,True,False,False,False
+8894-JVDCV,0,62,114.729,7133.45,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,True,False,False,False
 2023-VQFDL,0,18,19.2,348.8,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,True,False,False
 1345-GKDZZ,0,6,19.55,128.6,True,False,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
 2014-MKGMH,0,46,101.1,4674.4,False,False,False,True,False,True,True,False,False,False,False,False,False,True,False,False,False,True,False,True,True,False,True,False,True,False,False
@@ -2186,7 +2186,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4695-WJZUE,1,2,88.55,179.25,False,False,False,True,False,True,True,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,True,False,True,False,True
 7619-ODSGN,0,24,54.75,1338.15,True,True,True,True,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True
 5970-GHJAW,0,46,19.95,862.4,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False
-8879-XUAHX,0,71,114.71682,8037.867479999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
+8879-XUAHX,0,71,114.729,8039.255999999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
 3689-MOZGR,0,29,31.2,926.2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False
 4195-PNGZS,0,69,24.45,1718.2,True,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False,False
 5003-XZWWO,0,71,84.2,5956.85,True,True,False,True,False,True,False,False,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
@@ -2263,10 +2263,10 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 3126-WQMGH,0,49,52.15,2583.75,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False
 4529-CKBCL,0,2,80.2,146.05,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,True
 2506-CLAKW,0,6,98.15,567.45,False,False,False,True,False,False,True,False,False,True,False,True,False,True,False,True,False,False,False,True,False,False,True,False,False,False,True
-7176-WRTNX,0,70,114.71682,7711.25,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+7176-WRTNX,0,70,114.729,7711.25,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 1583-IHQZE,0,12,112.95,1384.75,True,False,False,True,False,True,True,False,False,False,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,True,True
 5732-IKGQH,1,52,104.45,5481.25,True,True,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False,True,False,True,True,False,True,False,False,False,False
-9239-GZHZE,0,72,113.65,8037.867479999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+9239-GZHZE,0,72,113.65,8039.255999999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 7205-BAIAD,0,40,20.6,827.3,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,False,False,False
 0151-ONTOV,0,1,70.9,70.9,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
 4140-MUHUG,1,3,86.85,220.95,False,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,True,False,True,False,True
@@ -2340,7 +2340,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4277-BWBML,0,72,19.95,1322.85,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False,False
 4094-NSEDU,1,21,94.25,1973.75,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,True,False,True
 0234-TEVTT,0,48,45.0,2196.3,False,True,True,False,True,False,False,False,False,True,False,False,False,True,False,False,False,False,False,True,True,False,False,True,False,False,False
-4304-TSPVK,0,68,114.71682,7843.55,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
+4304-TSPVK,0,68,114.729,7843.55,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
 1552-AAGRX,0,30,106.4,3211.9,False,False,False,True,False,True,True,False,False,True,False,False,False,False,False,True,False,True,False,True,False,False,False,False,False,False,False
 2637-FKFSY,0,3,46.1,130.15,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False
 9796-MVYXX,1,14,39.7,692.35,False,False,False,False,True,False,False,False,False,True,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,True,False
@@ -2367,7 +2367,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 7268-IGMFD,1,18,93.9,1743.9,True,False,False,True,False,True,True,False,False,False,False,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False
 1846-XWOQN,1,1,70.15,70.15,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
 0235-KGSLC,0,1,85.55,85.55,False,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,True,True,False,False,True
-6650-BWFRT,0,72,114.71682,8037.867479999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+6650-BWFRT,0,72,114.729,8039.255999999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 9570-KYEUA,0,64,99.25,6549.45,True,False,False,True,False,True,True,False,False,True,False,False,False,True,False,True,False,False,False,True,False,True,False,True,False,False,False
 6993-YGFJV,0,69,112.55,7806.5,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 2712-SYWAY,0,1,25.7,25.7,False,False,False,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,True,False,False
@@ -2449,7 +2449,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 1475-VWVDO,0,7,74.9,490.55,True,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,True,False,False
 9221-OTIVJ,1,14,104.85,1531.4,False,False,False,True,False,True,True,False,False,False,False,True,False,True,False,False,False,True,False,True,False,False,True,False,True,False,True
 1357-MVDOZ,0,11,59.65,683.25,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,True,False,False,False,False
-7602-MVRMB,0,72,110.45,8037.867479999999,False,True,True,True,False,True,True,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+7602-MVRMB,0,72,110.45,8039.255999999999,False,True,True,True,False,True,True,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 3325-FUYCG,0,28,106.1,2847.4,True,True,True,True,False,True,True,False,False,True,False,True,False,False,False,False,False,True,False,True,True,False,False,False,True,False,True
 5908-QMGOE,1,15,74.2,1133.9,True,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True
 1197-BVMVG,1,4,74.45,294.45,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
@@ -2514,7 +2514,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 5829-NVSQN,0,23,68.75,1689.45,False,True,False,True,False,False,False,False,False,True,False,False,False,True,False,True,False,False,False,True,True,False,True,False,False,False,False
 9565-AXSMR,0,52,19.2,1054.75,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
 8922-LIEGH,1,25,89.7,2187.55,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True,False,True,False,True
-8869-LIHMK,0,64,114.71682,7334.05,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+8869-LIHMK,0,64,114.729,7334.05,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 8245-UMPYT,1,16,96.4,1581.2,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,True,False,True
 5186-SAMNZ,1,1,69.5,69.5,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True
 0447-RXSGD,0,24,99.65,2404.85,True,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,True,False,True,False,False,True,False,False,False,False
@@ -2536,7 +2536,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 8565-HBFNN,0,69,107.2,7317.1,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,False,False,True,True,False,True,True,False,False,False
 2000-DHJUY,1,70,92.2,6474.45,False,True,False,True,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 0203-HHYIJ,0,25,25.3,676.35,True,False,False,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,True
-8670-ERCJH,0,72,113.4,8037.867479999999,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
+8670-ERCJH,0,72,113.4,8039.255999999999,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
 7758-UJWYS,0,34,40.55,1325.85,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,True,False,True,False,False
 2050-ONYDQ,0,65,26.0,1654.85,False,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False
 7055-JCGNI,0,70,111.95,7795.95,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
@@ -2558,7 +2558,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 8868-GAGIO,0,45,84.55,3713.95,True,True,False,True,False,True,True,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,True,False
 4061-UKJWL,0,3,45.45,141.7,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
 5380-XPJNZ,0,38,20.05,678.2,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False
-8263-QMNTJ,0,72,114.71682,8037.867479999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
+8263-QMNTJ,0,72,114.729,8039.255999999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
 8178-EYZUO,0,46,93.7,4154.8,True,False,False,True,False,True,True,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,True,False,True,False,True
 3230-JCNZS,0,71,99.0,7061.65,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,False,False,False,True,True,True,False,False,False
 0277-ORXQS,0,66,50.55,3364.55,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False
@@ -2602,7 +2602,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 2262-SLNVK,0,1,70.1,70.1,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
 7730-CLDSV,0,72,98.65,7129.45,False,True,True,True,False,True,True,False,False,False,False,True,False,True,False,True,False,False,False,True,False,True,True,False,False,False,False
 1135-HIORI,0,64,111.45,7266.95,False,True,True,True,False,True,True,False,False,False,False,True,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False
-0164-APGRB,0,72,114.71682,8037.867479999999,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
+0164-APGRB,0,72,114.729,8039.255999999999,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
 6481-ESCNL,0,29,100.55,2878.75,False,False,False,True,False,True,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False
 1790-NESIO,0,13,20.4,261.3,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,False,True,False
 1550-EENBN,0,31,104.35,3205.6,False,False,False,True,False,True,True,False,False,True,False,True,False,False,False,False,False,True,False,True,False,False,False,False,True,False,False
@@ -2666,7 +2666,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 6242-SGYTS,0,62,94.95,5791.85,True,True,True,True,False,True,True,False,False,True,False,True,False,False,False,False,False,True,False,False,True,False,True,True,False,False,False
 8166-ORCHU,1,33,93.55,3055.5,True,True,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True,True,False,True,False,True,False,False
 8414-OOEEL,0,66,79.5,5196.1,True,False,True,True,False,False,False,False,False,False,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
-8454-AATJP,0,72,114.71682,8037.867479999999,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
+8454-AATJP,0,72,114.729,8039.255999999999,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
 6849-WLEYG,0,1,19.75,19.9,True,False,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,True
 4659-NZRUF,0,19,95.15,1789.25,False,False,False,True,False,True,True,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,True,False,True,False,True
 4531-AUZNK,0,51,95.15,5000.05,False,True,True,True,False,True,True,False,False,True,False,False,False,False,False,True,False,True,False,False,True,False,True,False,False,True,False
@@ -2688,7 +2688,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4283-FUTGF,1,19,79.85,1471.75,True,False,False,True,False,True,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,True,False,True
 5213-TWWJU,0,28,91.0,2626.15,True,False,False,True,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,False,False,False,False,True,False,False
 1569-TTNYJ,0,5,78.75,412.1,True,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
-8628-MFKAX,1,72,114.71682,8037.867479999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+8628-MFKAX,1,72,114.729,8039.255999999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 2397-BRLOM,1,8,80.45,583.45,True,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,True
 7629-WIXZF,0,7,59.1,369.25,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,True,False,True,False,False
 5445-GLVOT,0,22,49.8,1049.05,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
@@ -2765,7 +2765,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 2250-IVBWA,0,64,81.05,5135.35,True,True,True,True,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
 1810-MVMAI,0,30,67.6,2000.2,True,True,True,True,False,True,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False,False,False,False,True,False,False
 9506-UXUSK,0,13,70.15,931.75,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
-1229-RCALF,0,64,114.71682,7396.15,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False
+1229-RCALF,0,64,114.729,7396.15,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False
 3572-UOLYZ,0,46,84.8,3958.85,False,False,True,True,False,True,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False
 1429-UYJSV,0,12,19.7,260.9,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False
 5577-OTWWW,0,15,19.75,297.3,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,False,True
@@ -2815,7 +2815,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 6484-LATFU,0,68,24.55,1657.4,True,False,False,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
 7599-NTMDP,0,62,48.7,3008.55,False,True,True,False,True,False,False,False,False,True,False,True,False,False,False,True,False,True,False,False,False,True,False,False,False,False,False
 0772-GYEQQ,0,3,88.35,262.05,True,False,False,True,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,False,False,False,True,False,False,True,True
-0536-ACXIP,0,72,109.55,8037.867479999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,False,True,False,True,True,False,True,False,False
+0536-ACXIP,0,72,109.55,8039.255999999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,False,True,False,True,True,False,True,False,False
 0936-NQLJU,0,41,20.65,875.55,False,True,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False
 4831-EOBFE,0,29,94.65,2649.15,True,True,True,True,False,False,True,False,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,True,False,False,True
 1575-KRZZE,0,4,55.2,220.65,False,False,False,True,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
@@ -2884,7 +2884,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 6652-YFFJO,0,11,64.9,716.1,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,True,False,False
 7225-IILWY,0,68,25.75,1686.15,True,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
 5248-RPYWW,1,72,90.15,6716.45,False,True,True,True,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
-7923-IYJWY,1,67,114.71682,7839.85,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+7923-IYJWY,1,67,114.729,7839.85,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 3170-GWYKC,0,60,104.95,6236.75,False,False,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False
 5696-QURRL,0,1,45.05,45.05,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,True
 7409-KIUTL,1,1,71.0,71.0,False,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
@@ -2925,7 +2925,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4402-FTBXC,0,54,89.8,4667.0,True,False,False,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False
 1428-GTBJJ,0,11,74.55,824.75,True,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
 2931-XIQBR,0,50,103.05,5153.5,False,True,True,True,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,True,False,False,False,False,True,False
-0106-UGRDO,0,69,114.71682,8037.867479999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
+0106-UGRDO,0,69,114.729,8039.255999999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
 5542-TBBWB,0,1,69.9,69.9,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
 1930-QPBVZ,0,68,95.1,6683.4,True,True,True,True,False,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False,False,False,False,False
 2606-PKWJB,0,40,40.25,1564.05,True,False,True,False,True,False,False,False,False,True,False,True,False,False,False,True,False,False,False,False,True,False,False,False,False,True,False
@@ -3106,7 +3106,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 6860-YRJZP,1,9,74.05,678.45,True,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
 4429-WYGFR,0,26,49.15,1237.3,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
 2817-LVCPP,0,50,19.4,1023.95,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False
-5038-ETMLM,0,72,113.65,8037.867479999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+5038-ETMLM,0,72,113.65,8039.255999999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 5056-FIMPT,0,43,106.0,4532.3,False,False,True,True,False,False,True,False,False,True,False,True,False,False,False,True,False,True,False,True,True,False,True,True,False,False,False
 4521-WFJAI,0,56,25.95,1444.05,True,False,False,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,False,False,False
 6569-KTMDU,0,1,19.2,19.9,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
@@ -3204,7 +3204,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 5501-TVMGM,0,1,55.25,55.25,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,True,False,False
 5879-HMFFH,0,72,88.05,6520.8,False,True,False,True,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
 6772-WFQRD,0,40,20.4,854.9,True,False,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False
-3810-DVDQQ,0,72,114.71682,8037.867479999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+3810-DVDQQ,0,72,114.729,8039.255999999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 6972-SNKKW,0,6,20.0,109.2,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
 3694-GLTJM,0,5,19.65,92.05,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,True,False,False,False
 8550-XSXUQ,0,48,70.55,3420.5,True,True,False,True,False,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,False,True,True,False,False,False
@@ -3298,7 +3298,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 2229-VWQJH,0,24,49.3,1233.25,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False
 9194-GFVOI,0,42,84.35,3571.6,False,True,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
 1336-EZFZY,0,4,20.05,83.3,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
-4282-MSACW,0,68,114.71682,8035.95,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,True,False,False,False
+4282-MSACW,0,68,114.729,8035.95,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,True,False,False,False
 1403-LKLIK,0,33,20.1,579.4,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False
 2636-ALXXZ,1,1,69.6,69.6,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
 7774-OJSXI,0,31,103.45,3066.45,True,False,False,True,False,True,True,False,False,False,False,True,False,True,False,False,False,True,False,True,True,False,True,False,True,False,True
@@ -3766,7 +3766,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 6674-KVJHG,0,11,25.2,245.15,False,False,False,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,False
 1814-DKOLC,0,5,25.45,134.75,False,False,False,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
 4201-JMNGR,1,1,55.8,55.8,False,False,False,True,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,True,False,True,False,True
-9351-HXDMR,0,72,110.9,8037.867479999999,True,True,False,True,False,True,True,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+9351-HXDMR,0,72,110.9,8039.255999999999,True,True,False,True,False,True,True,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 3537-HPKQT,0,55,77.75,4266.4,False,True,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False
 2129-ALKBS,0,40,26.2,1077.5,False,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,True,False,False
 5821-MMEIL,0,57,19.9,1115.6,False,True,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False,False
@@ -3819,7 +3819,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 9504-YAZWB,0,53,20.25,1048.45,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
 8819-ZBYNA,0,58,109.1,6393.65,False,True,False,True,False,True,True,False,False,True,False,True,False,False,False,True,False,True,False,True,False,True,True,True,False,False,False
 6174-NRBTZ,0,46,30.75,1489.3,True,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False
-9481-IEBZY,1,72,112.9,8037.867479999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,False,False
+9481-IEBZY,1,72,112.9,8039.255999999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,False,False
 1833-VGRUM,1,1,74.2,74.2,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
 6137-NICCO,0,6,94.05,518.75,False,True,True,True,False,True,True,False,False,False,False,True,False,True,False,False,False,True,False,False,False,False,True,False,False,True,False
 9065-ZCPQX,0,72,78.85,5763.15,True,True,False,True,False,True,False,False,False,True,False,True,False,True,False,True,False,False,False,True,False,True,False,False,False,False,False
@@ -3877,7 +3877,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 2403-BCASL,1,41,111.95,4534.9,True,True,True,True,False,True,True,False,False,False,False,True,False,True,False,True,False,True,False,True,True,False,True,False,True,False,True
 7392-YYPYJ,0,22,100.65,2415.95,True,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,True,False,True,False,False,True,False,True,False,False
 2898-LSJGD,0,21,55.95,1157.05,False,True,True,False,True,False,False,False,False,True,False,False,False,True,False,False,False,True,False,True,True,False,True,False,True,False,True
-2223-GDSHL,0,71,114.71682,8037.867479999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+2223-GDSHL,0,71,114.729,8039.255999999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 7359-PTSXY,0,1,45.75,45.75,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True
 9470-RTWDV,0,26,82.0,2083.1,True,True,True,True,False,True,False,False,False,False,False,False,False,True,False,True,False,True,False,True,True,False,True,True,False,False,False
 2176-OSJUV,0,71,65.15,4681.75,True,True,False,True,False,True,False,False,False,True,False,True,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False
@@ -3889,14 +3889,14 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4503-BDXBD,0,11,74.95,815.5,True,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True
 6086-ESGRL,0,1,80.15,80.15,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True
 2592-HODOV,0,13,19.3,259.65,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False
-3886-CERTZ,0,72,109.25,8037.867479999999,False,True,False,True,False,True,True,False,False,False,False,True,False,True,False,True,False,True,False,True,True,False,True,False,True,False,True
+3886-CERTZ,0,72,109.25,8039.255999999999,False,True,False,True,False,True,True,False,False,False,False,True,False,True,False,True,False,True,False,True,True,False,True,False,True,False,True
 7995-ZHHNZ,0,42,56.1,2386.85,True,True,False,True,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False
 3824-RHKVR,0,17,19.7,340.35,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False,False,False
 5816-SCGFC,1,7,51.3,419.35,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False
-5989-AXPUC,0,68,114.71682,7990.05,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False
+5989-AXPUC,0,68,114.729,7990.05,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False
 4979-HPRFL,0,56,24.15,1402.25,True,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False,False
 8590-OHDIW,0,38,20.3,749.35,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False
-8015-IHCGW,0,72,114.71682,8037.867479999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
+8015-IHCGW,0,72,114.729,8039.255999999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
 2332-TODQS,0,48,25.05,1171.5,False,False,False,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False
 9278-VZKCD,1,52,109.1,5647.95,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,False,True,False,False,True,False,True,False,False
 8008-OTEZX,0,35,19.65,708.8,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False
@@ -3907,11 +3907,11 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 5759-RCVCB,0,3,35.2,108.95,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,True
 6372-RFVNS,0,1,78.8,78.8,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True
 2139-FQHLM,0,19,89.95,1682.4,True,False,False,True,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,False,False,False,False,False,False,True,False
-8261-GWDBQ,1,60,114.71682,6925.9,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+8261-GWDBQ,1,60,114.729,6925.9,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 1093-YSWCA,0,11,19.55,223.15,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False
 8938-UMKPI,0,47,106.4,5127.95,False,False,False,True,False,True,True,False,False,False,False,True,False,True,False,False,False,True,False,True,False,False,True,False,True,False,True
 0991-BRRFB,0,18,49.4,874.8,True,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True
-3882-IYOIJ,0,60,114.71682,6758.45,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
+3882-IYOIJ,0,60,114.729,6758.45,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
 8749-TZYEC,0,72,24.8,1874.3,True,True,False,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False
 1755-FZQEC,0,39,19.9,791.15,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False
 3115-JPJDD,0,59,81.25,4639.45,False,True,False,True,False,False,True,False,False,True,False,False,False,True,False,False,False,False,False,False,True,False,True,True,False,False,False
@@ -4025,7 +4025,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 1686-STUHN,0,42,19.8,849.9,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False
 1329-VHWNP,0,7,25.05,189.95,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 2984-MIIZL,0,4,74.8,321.9,True,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,True
-0266-GMEAO,0,72,114.3,8037.867479999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+0266-GMEAO,0,72,114.3,8039.255999999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 5590-YRFJT,0,20,24.45,482.8,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
 5574-NXZIU,0,63,109.2,7049.75,True,False,False,True,False,False,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
 0019-GFNTW,0,56,45.05,2560.1,False,False,False,False,True,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False,True,False,False,False,False,False
@@ -4154,7 +4154,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 2649-HWLYB,0,65,76.15,4929.55,True,True,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False,False,False,True,False,True,False,False,False,False,False
 5214-CHIWJ,0,27,20.3,595.05,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False
 4229-CZMLL,0,6,74.9,469.8,True,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
-6904-JLBGY,1,72,114.71682,8037.867479999999,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+6904-JLBGY,1,72,114.729,8039.255999999999,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 2465-BLLEU,0,1,19.75,19.9,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,False,True,False
 1685-VAYJF,0,11,45.2,492.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
 8874-EJNSR,0,39,25.2,987.95,True,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
@@ -4169,7 +4169,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 5120-ZBLAI,0,50,75.7,3876.2,False,True,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False
 1194-BHJYC,0,61,62.15,3778.85,True,True,False,False,True,False,False,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,True,False,False,True,False
 3663-MITLP,0,15,101.25,1457.25,False,False,False,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True,False,True,False,False,True,False,True,False,True
-0906-QVPMS,0,72,114.71682,8037.867479999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
+0906-QVPMS,0,72,114.729,8039.255999999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
 9025-ZRPVR,0,9,19.2,185.6,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,False,True,True
 1905-OEILC,0,1,19.5,19.9,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
 7858-GTZSP,0,12,86.55,1066.9,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,True,False,False
@@ -4205,7 +4205,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4291-YZODP,0,7,20.05,96.8,False,False,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False
 4395-PZMSN,1,5,85.55,408.5,True,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True,False,True,False,False
 6427-FEFIG,0,24,78.6,1846.65,False,True,True,True,False,True,False,False,False,True,False,False,False,True,False,False,False,True,False,True,False,True,False,True,False,False,False
-0017-IUDMW,0,72,114.71682,8037.867479999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+0017-IUDMW,0,72,114.729,8039.255999999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 8706-HRADD,0,21,43.55,1011.5,True,False,False,False,True,False,False,False,False,True,False,False,False,False,False,True,False,True,False,False,False,False,True,False,False,True,False
 9955-QOPOY,0,69,60.8,4263.4,True,True,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,False,True,True,False,True,True,False,False,False
 4385-ZKVNW,0,44,54.9,2549.1,True,True,True,True,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False
@@ -4228,7 +4228,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 3519-ZKXGG,0,3,75.85,256.6,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
 5457-COLHT,0,69,80.65,5542.55,True,True,True,True,False,False,False,False,False,True,False,True,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False
 6416-TVAIH,0,1,68.5,68.5,True,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
-5451-YHYPW,1,72,114.71682,8037.867479999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+5451-YHYPW,1,72,114.729,8039.255999999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 5108-ADXWO,0,11,73.5,791.75,True,False,False,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
 7998-WNZEM,0,71,80.6,5708.2,True,False,False,True,False,True,False,False,False,True,False,True,False,True,False,True,False,False,False,True,False,True,False,False,False,False,False
 3066-RRJIO,0,1,69.95,69.95,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,True
@@ -4262,7 +4262,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 5269-NRGDP,0,42,73.15,3088.25,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,True,False,False,False,True,False,False
 6195-MELTI,0,57,54.65,3134.7,True,False,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,True,False,True,False,False,True,False
 5485-WUYWF,1,2,66.4,94.55,True,False,False,True,False,False,False,False,False,True,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,True
-2121-JAFOM,0,72,114.71682,8037.867479999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+2121-JAFOM,0,72,114.729,8039.255999999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 8818-DOPVL,1,46,104.45,4863.85,False,False,False,True,False,True,True,False,False,False,False,True,False,True,False,False,False,True,False,True,False,False,True,False,True,False,False
 2632-UCGVD,1,66,100.05,6871.9,True,True,False,True,False,True,True,False,False,False,False,False,False,False,False,True,False,True,False,True,False,False,True,True,False,False,True
 5445-PZWGX,0,62,102.0,6529.25,True,False,False,True,False,True,True,False,False,True,False,True,False,False,False,True,False,False,False,True,True,False,False,False,True,False,True
@@ -4489,7 +4489,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4116-IQRFR,0,4,24.1,73.1,True,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False
 3714-JTVOV,1,42,74.15,3229.4,False,True,False,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True
 8259-DZLIZ,0,64,53.85,3399.85,False,True,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False
-0442-ZXKVS,1,54,114.71682,6431.05,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False,False,False
+0442-ZXKVS,1,54,114.729,6431.05,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False,False,False
 7853-WNZSY,0,1,19.75,19.9,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,True,False,False,False
 3120-FAZKD,0,54,24.05,1230.9,True,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,False,False,False
 8606-OEGQZ,0,18,25.3,454.65,False,False,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False
@@ -4552,7 +4552,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4625-XMOYM,0,72,26.25,1988.05,False,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,False,False,False
 5827-MWCZK,0,56,96.95,5432.2,True,True,True,True,False,True,True,False,False,False,False,True,False,False,False,True,False,True,False,False,False,False,True,True,False,False,False
 1385-TQOZW,0,9,20.45,147.55,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,True,False,False,False
-5914-XRFQB,0,72,114.71682,8037.867479999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+5914-XRFQB,0,72,114.729,8039.255999999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 4329-YPDDQ,0,20,108.2,2203.7,True,False,False,True,False,False,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False
 4804-NCPET,0,19,20.2,387.4,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
 3750-CKVKH,0,2,67.75,116.65,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
@@ -4561,7 +4561,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 7787-BNTZM,0,6,20.15,130.5,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,False,False
 2252-ISRNH,0,9,90.35,767.9,True,True,True,True,False,True,True,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False
 9415-TPKRV,0,8,55.75,446.8,False,True,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
-5322-TEUJK,0,71,114.6,8037.867479999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
+5322-TEUJK,0,71,114.6,8039.255999999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
 4547-KQRTM,0,10,80.05,830.7,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True
 4877-EVATK,0,1,20.0,20.0,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,True
 1866-DIOQZ,0,71,66.8,4689.15,False,True,False,False,True,False,False,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False
@@ -4585,7 +4585,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 2400-XIWIO,0,71,90.1,6310.9,False,True,False,True,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False
 7524-VRLPL,1,69,74.1,5031.0,True,False,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False,False,False,True,False,True,False,True,False,False,False
 1069-XAIEM,1,1,85.05,85.05,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,True,False,True
-7569-NMZYQ,0,72,114.71682,8037.867479999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+7569-NMZYQ,0,72,114.729,8039.255999999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 5201-USSQZ,0,26,85.9,2196.45,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,True,False,False,False
 2105-PHWON,0,33,95.0,3008.15,False,True,False,True,False,True,True,False,False,False,False,False,False,True,False,True,False,False,False,True,False,False,True,True,False,False,False
 1494-EJZDW,0,10,20.15,220.8,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
@@ -4599,7 +4599,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 3440-JPSCL,0,6,99.95,547.65,False,False,False,True,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,True,False,False,True,False,False,True,True
 4929-ROART,0,18,56.25,969.85,True,False,False,True,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
 1834-ABKHQ,0,52,50.95,2610.65,False,True,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False
-1741-WTPON,0,56,114.71682,6567.9,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False
+1741-WTPON,0,56,114.729,6567.9,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False
 3932-IJWDZ,0,45,103.65,4747.85,True,False,False,True,False,True,True,False,False,False,False,False,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False
 1240-HCBOH,0,67,26.1,1759.55,False,False,False,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,False,True,False
 3594-KADLU,0,3,35.1,101.1,True,True,False,False,True,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False
@@ -4609,7 +4609,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 2853-CWQFQ,0,1,59.55,59.55,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,False,True,False
 0813-TAXXS,0,55,77.8,4323.35,True,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False,True,False,True,True,False,False,False,False
 2519-TWKFS,0,25,55.1,1466.1,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,False,True,False
-2889-FPWRM,0,72,114.71682,8037.867479999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False,False,True
+2889-FPWRM,0,72,114.729,8039.255999999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False,False,True
 0626-QXNGV,0,72,24.15,1776.45,False,True,False,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,True,False,False,False
 6723-CEGQI,0,65,45.25,2933.95,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,False,True,False,False,False,True,False
 6987-XQSJT,1,54,79.5,4370.25,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
@@ -4619,14 +4619,14 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 3007-FDPEA,0,2,20.7,39.85,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,False,False,False
 6350-XFYGW,1,4,94.75,422.4,True,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,True,False,True,False,False
 4290-BSXUX,0,3,79.65,251.75,True,True,False,True,False,True,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,True
-8513-OLYGY,0,72,114.71682,8037.867479999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
+8513-OLYGY,0,72,114.729,8039.255999999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
 0311-QYWSS,0,6,49.45,314.6,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
 8705-DWKTI,0,52,83.8,4331.4,True,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,True,True,False,False,False
 8755-IWJHN,1,69,95.35,6382.0,True,True,False,True,False,True,True,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False,True,False,False,False,False
 0325-XBFAC,0,8,94.7,740.3,True,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,True,False,True,False,True
 4480-QQRHC,1,8,74.05,600.15,False,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
 0929-PECLO,1,63,89.6,5538.8,False,False,False,True,False,True,True,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,True,False,False,False,False
-3680-CTHUH,0,60,114.71682,7049.5,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,True,False,False,False
+3680-CTHUH,0,60,114.729,7049.5,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,True,False,False,False
 1202-KKGFU,0,12,54.2,690.5,False,True,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
 6112-KTHFQ,0,13,19.3,279.3,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,False,True,False
 1852-XEMDW,0,22,65.05,1427.55,True,False,False,True,False,True,False,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False
@@ -4736,7 +4736,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4106-HADHQ,0,39,80.0,3182.95,True,True,True,True,False,False,False,False,False,True,False,False,False,True,False,True,False,True,False,True,True,False,False,True,False,False,True
 0723-FDLAY,0,44,85.25,3704.15,True,False,False,True,False,True,False,False,False,False,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False,False,False
 3050-RLLXC,0,56,81.25,4620.4,False,True,True,True,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,True,False,False,False
-9298-WGMRW,0,72,114.71682,8037.867479999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+9298-WGMRW,0,72,114.729,8039.255999999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 2369-UAPKZ,0,5,104.1,541.9,True,False,False,True,False,True,True,False,False,False,False,True,False,True,False,False,False,True,False,True,False,False,False,False,False,True,True
 3088-LHEFH,0,11,79.0,929.3,False,False,False,True,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
 2778-OCLGR,1,24,39.1,971.3,True,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True
@@ -4796,17 +4796,17 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 0366-NQSHS,0,2,19.35,46.35,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
 6532-YLWSI,0,53,20.8,1021.8,False,True,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,True
 3807-BPOMJ,0,55,94.75,5276.1,False,True,False,True,False,False,True,False,False,True,False,False,False,False,False,False,False,True,False,True,True,False,True,False,True,False,False
-3892-NXAZG,0,72,114.05,8037.867479999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+3892-NXAZG,0,72,114.05,8039.255999999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 4948-WBBKL,1,36,74.9,2659.45,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
 4182-BGSIQ,0,10,19.8,196.75,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,False,False,False
 9300-AGZNL,1,1,94.0,94.0,True,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,True,False,True
 0988-AADSA,0,72,80.85,5824.75,False,True,True,True,False,True,False,False,False,True,False,True,False,True,False,True,False,False,False,True,False,True,False,False,False,False,False
 9972-NKTFD,0,28,54.65,1517.5,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
 3717-LNXKW,0,38,91.7,3479.05,True,True,False,True,False,True,True,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-5734-EJKXG,0,61,114.71682,7365.7,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False
+5734-EJKXG,0,61,114.729,7365.7,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False
 2207-RYYRL,0,52,24.55,1331.05,True,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
 6729-FZWSY,0,67,19.45,1195.95,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False
-9695-IDRZR,0,34,114.71682,3946.9,False,False,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+9695-IDRZR,0,34,114.729,3946.9,False,False,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 8144-DGHXP,0,54,80.6,4299.95,False,False,False,True,False,False,False,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False
 7814-LEEVE,0,1,20.3,20.3,False,True,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,False,False,False
 1112-CUNAO,1,15,89.85,1424.95,False,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True
@@ -4874,7 +4874,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 8125-QPFJD,0,72,84.9,6065.3,False,True,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 2320-YKQBO,0,7,19.3,144.95,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
 1193-RTSLK,0,38,83.9,3233.6,False,False,False,True,False,False,True,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,True,True,False,False,True
-2302-ANTDP,1,48,114.71682,5438.9,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False,True
+2302-ANTDP,1,48,114.729,5438.9,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False,True
 5923-GXUOC,0,10,104.4,1081.45,True,False,False,True,False,False,True,False,False,True,False,True,False,True,False,False,False,True,False,True,False,False,True,False,True,False,True
 4973-RLZVI,0,30,74.65,2308.6,False,False,False,True,False,False,False,False,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,True,False,False,False
 7869-ZYDST,0,31,59.05,1882.8,True,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False
@@ -5008,7 +5008,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 9103-TCIHJ,0,15,55.7,899.8,False,False,False,True,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,True
 7407-SUJIZ,0,25,20.6,541.5,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
 9150-KPBJQ,0,6,19.65,116.85,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False
-0052-DCKON,0,66,114.71682,7942.15,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False
+0052-DCKON,0,66,114.729,7942.15,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False,False,False
 3654-ARMGP,0,61,88.65,5321.25,False,False,False,True,False,True,False,False,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
 9699-UBQFS,1,43,94.5,4156.8,False,True,False,True,False,True,True,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False,True,False,True,False,False
 9367-TCUYN,0,12,20.1,223.6,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
@@ -5112,7 +5112,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 8541-QVFKM,0,8,73.5,632.2,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
 6686-YPGHK,1,47,85.5,4042.3,True,False,False,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True
 1383-EZRWL,0,7,20.05,164.85,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,True
-9258-CNWAC,0,71,113.65,8037.867479999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
+9258-CNWAC,0,71,113.65,8039.255999999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
 5371-VYLSX,1,50,83.4,4113.7,False,False,False,True,False,True,True,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
 6374-AFWOX,0,46,65.65,3047.15,True,True,False,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False,True,False,False,False,True,False
 4759-TRPLW,0,1,70.4,70.4,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True
@@ -5126,7 +5126,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 7267-FRMJW,0,25,20.1,486.05,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
 2982-VPSGI,0,11,94.0,1078.9,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,True,False,True
 4188-FRABG,0,57,103.05,5925.75,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False,True,False,False
-8199-ZLLSA,0,67,114.71682,7804.15,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False,False,True
+8199-ZLLSA,0,67,114.729,7804.15,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False,False,True
 4128-ETESU,1,47,99.7,4747.2,False,True,False,True,False,True,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,False,False,True,False,False
 0620-DLSLK,0,13,81.9,1028.9,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,True,False
 4625-EWPTF,0,8,30.45,226.45,True,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
@@ -5136,7 +5136,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 8010-EZLOU,1,15,80.2,1217.25,True,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
 1156-ZFYDO,0,1,19.75,19.9,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,True,False,False
 3295-YVUSR,1,2,72.6,154.3,True,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False
-8016-NCFVO,1,55,114.71682,6382.55,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False
+8016-NCFVO,1,55,114.729,6382.55,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False
 4119-ZYPZY,1,71,106.8,7623.2,True,False,False,True,False,True,True,False,False,False,False,True,False,False,False,True,False,True,False,True,False,True,True,False,True,False,False
 5549-ZGHFB,0,50,24.95,1261.45,True,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
 7577-SWIFR,0,1,89.25,89.25,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,True,False,False
@@ -5253,7 +5253,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 8485-GJCDN,1,5,69.05,318.5,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,True
 2615-YVMYX,1,71,107.5,7713.55,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,False,False,True,False,True,False,False,True,False,True,False,False
 2851-STERV,1,35,73.0,2471.25,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False
-4393-GEADV,0,70,114.71682,7842.3,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
+4393-GEADV,0,70,114.729,7842.3,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
 8486-AYEQH,0,31,76.05,2227.8,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
 1527-SXDPN,0,52,96.25,4990.25,True,True,True,True,False,True,True,False,False,False,False,False,False,True,False,True,False,False,False,True,False,True,True,False,False,False,True
 6029-WTIPC,1,37,101.1,3744.05,True,False,False,True,False,True,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,True,False,True,False,True
@@ -5288,7 +5288,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 3235-ETOOB,0,8,74.5,609.9,True,True,False,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
 9708-KFDBY,0,1,20.55,20.55,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False,False,False
 8058-INTPH,0,1,79.65,79.65,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,True,False,True
-3642-GKTCT,0,61,114.71682,6993.65,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False,True,False
+3642-GKTCT,0,61,114.729,6993.65,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False,True,False
 0774-RMNUW,0,71,59.7,4122.65,False,True,True,False,True,False,False,False,False,True,False,True,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False
 1334-PDUKM,0,68,86.45,5762.95,False,True,False,True,False,True,True,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,True,False,False,False
 0756-MPZRL,0,46,33.7,1537.85,True,False,False,False,True,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,True,False,False,True,False,False,False
@@ -5318,7 +5318,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 1470-PSXNM,0,49,93.65,4520.15,True,True,True,True,False,True,True,False,False,False,False,True,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False
 1213-NGCUN,0,6,49.65,267.35,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,True
 2498-XLDZR,0,32,73.6,2316.85,False,True,True,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,True,False,True,False,False,False,True,False
-9866-OCCKE,1,72,109.75,8037.867479999999,False,True,False,True,False,True,True,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,True,False,False,True,False
+9866-OCCKE,1,72,109.75,8039.255999999999,False,True,False,True,False,True,True,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,True,False,False,True,False
 5338-YHWYT,0,37,61.45,2302.35,True,False,True,True,False,False,False,False,False,True,False,True,False,False,False,True,False,False,False,False,False,True,False,True,False,False,False
 7718-UPSKJ,0,69,106.4,7251.9,False,True,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False,True,False,True,True,False,True,True,False,False,False
 8731-WBBMB,0,26,81.9,2078.55,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,False
@@ -5346,7 +5346,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 6283-GITPX,0,71,76.9,5522.7,True,False,True,True,False,False,False,False,False,True,False,True,False,True,False,True,False,True,False,False,False,True,True,True,False,False,False
 9526-JAWYF,0,26,89.8,2335.3,True,False,False,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True,False,False,False,False,False,False,True,False,True
 0771-CHWSK,0,66,74.6,4798.4,True,False,False,True,False,True,False,False,False,True,False,True,False,True,False,False,False,False,False,True,False,True,True,True,False,False,False
-9788-HNGUT,0,72,114.71682,8037.867479999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+9788-HNGUT,0,72,114.729,8039.255999999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 9495-REDIY,0,25,40.65,970.55,True,False,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True,False,True,True,False,False,False
 5375-XLDOF,0,69,114.35,7665.8,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 1172-VIYBP,0,53,69.7,3686.05,True,True,True,True,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False
@@ -5419,7 +5419,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 9715-SBVSU,0,14,61.4,815.55,True,True,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False
 8490-BXHEO,1,18,80.55,1411.65,True,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False
 7173-TETGO,1,72,78.5,5602.25,False,True,False,True,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-7929-SKFGK,0,70,114.3,8037.867479999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
+7929-SKFGK,0,70,114.3,8039.255999999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
 2300-RQGOI,0,38,20.05,741.5,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
 3563-SVYLG,0,68,62.65,4375.8,True,True,True,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False,True,False,True,False,False,False
 5228-EXCET,0,13,80.85,1008.7,True,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,True,False,True
@@ -5536,7 +5536,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 7964-VEXDG,0,21,80.35,1747.2,True,False,True,True,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
 2404-JIBFC,0,55,85.1,4657.95,False,True,True,True,False,True,False,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 0778-NELLA,0,9,34.7,296.1,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,True
-8029-XYPWT,1,71,114.71682,8016.6,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+8029-XYPWT,1,71,114.729,8016.6,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 4614-NUVZD,0,1,81.1,81.1,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,True,False,True
 4632-PAOYU,0,22,19.95,433.5,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False
 3803-KMQFW,0,1,20.55,20.55,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,True
@@ -5557,7 +5557,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 8750-QWZAJ,0,70,19.8,1378.75,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False,False
 5364-EVNIB,0,13,79.8,973.45,True,False,False,True,False,False,True,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,True,False,True,False,True
 6918-UMQCG,0,5,80.2,384.25,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
-0675-NCDYU,0,72,114.71682,8037.867479999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+0675-NCDYU,0,72,114.729,8039.255999999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 6339-DKLMK,0,13,31.65,389.95,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
 1346-PJWTK,0,61,94.15,5731.85,True,True,False,True,False,False,True,False,False,False,False,True,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False
 5088-QZLRL,0,1,20.65,20.65,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,True,False,False
@@ -5741,7 +5741,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 4199-QHJNM,1,67,102.9,6989.7,True,True,False,True,False,True,True,False,False,False,False,True,False,False,False,True,False,True,False,True,False,True,False,False,False,False,False
 8882-TLVRW,0,69,39.1,2779.5,True,True,True,False,True,False,False,False,False,True,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,True,False
 5883-GTGVD,0,19,99.95,1931.75,True,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,True,False,True,False,False,True,False,True,False,True
-5135-GRQJV,1,72,114.5,8037.867479999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,True,False
+5135-GRQJV,1,72,114.5,8039.255999999999,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,True,False
 2384-OVPSA,1,38,20.2,735.9,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
 1371-WEPDS,1,40,55.8,2283.3,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True,False,False
 3580-GICBM,0,61,24.2,1445.2,False,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,False,True,False
@@ -5818,7 +5818,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 0374-IOEGQ,0,3,44.6,122.7,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
 4361-JEIVL,0,1,44.4,44.4,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True
 3197-NNYNB,0,65,105.1,6631.85,True,False,False,True,False,True,True,False,False,False,False,True,False,True,False,False,False,True,False,True,False,True,False,True,False,False,False
-3396-DKDEL,0,70,114.71682,8037.867479999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+3396-DKDEL,0,70,114.729,8039.255999999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 1752-OZXFY,0,60,59.8,3561.15,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True,False,True,False,False,True,False
 9066-QRSDU,0,69,26.3,1763.55,False,True,False,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False
 9112-WSNPU,1,35,70.55,2419.0,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
@@ -5915,7 +5915,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 6156-UZDLF,0,26,87.15,2274.1,False,False,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False,False,False,False,True,False,True,True,False,False,False
 3099-OONVS,0,25,54.3,1296.8,True,True,True,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False
 9500-WBGRP,0,69,19.2,1268.85,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,False,True,False
-5183-KLYEM,0,72,112.75,8037.867479999999,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+5183-KLYEM,0,72,112.75,8039.255999999999,False,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 5144-PQCDZ,0,4,19.95,59.25,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,False,True,False
 8514-VZHEB,0,59,19.5,1147.85,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
 6625-IUTTT,0,67,65.55,4361.55,True,False,False,True,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,True,False,True,False,False,False,False,False
@@ -6117,7 +6117,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 3831-YCPUO,0,72,109.5,7854.9,False,True,True,True,False,False,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 7445-WMRBW,0,48,73.85,3581.4,False,False,False,True,False,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False,False
 3308-DGHKL,0,69,19.3,1447.9,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,False,False,False
-9924-JPRMC,0,72,114.71682,8037.867479999999,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
+9924-JPRMC,0,72,114.729,8039.255999999999,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
 0080-EMYVY,0,14,51.45,727.85,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False
 6218-KNUBD,0,6,59.45,357.6,True,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
 7337-CINUD,0,8,19.5,159.35,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False,False
@@ -6134,7 +6134,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 3896-RCYYE,0,67,53.4,3579.15,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,False,False,True,True,False,False,False
 9638-JIQYA,0,2,24.9,49.7,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False
 3258-SANFR,1,6,44.7,276.5,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
-3726-TBHQT,0,71,114.0,8037.867479999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+3726-TBHQT,0,71,114.0,8039.255999999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 3190-ITQXP,0,46,20.25,890.35,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,False,False
 0870-VEMYL,0,5,53.85,259.8,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True
 4833-QTJNO,1,67,83.85,5588.8,True,True,False,True,False,True,True,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -6288,7 +6288,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 2717-HVIZY,0,8,20.05,163.6,False,False,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
 3223-WZWJM,0,26,83.95,2254.2,True,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,True,False,True
 3422-GALYP,0,2,79.45,145.15,True,False,False,True,False,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
-9053-JZFKV,0,67,114.71682,7752.3,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True
+9053-JZFKV,0,67,114.729,7752.3,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True
 2530-ENDWQ,0,71,93.7,6585.35,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,True,False,False,False,True
 2890-WFBHU,0,59,79.85,4786.1,False,False,False,True,False,True,False,False,False,True,False,True,False,True,False,True,False,False,False,True,True,False,False,True,False,False,False
 0327-WFZSY,0,39,100.0,3835.55,True,True,True,True,False,True,True,False,False,False,False,False,False,True,False,False,False,True,False,True,True,False,False,False,True,False,False
@@ -6305,7 +6305,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 6308-CQRBU,0,71,109.25,7707.7,False,True,False,True,False,True,True,False,False,False,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False
 2754-XBHTB,0,9,77.65,714.15,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,True
 1597-LHYNC,1,26,95.0,2497.2,False,False,False,True,False,True,True,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,True,False,True,False,True
-0186-CAERR,0,71,114.71682,8037.867479999999,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False,False,False
+0186-CAERR,0,71,114.729,8039.255999999999,True,False,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False,False,False
 3043-SUDUA,0,32,19.9,601.55,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,False,False
 5442-BHQNG,0,2,70.35,139.25,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
 2169-RRLFW,0,71,25.6,1888.25,False,True,False,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False
@@ -6402,7 +6402,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 7921-BEPCI,0,72,59.75,4265.0,False,False,False,True,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
 0807-ZABDG,0,3,55.1,154.65,False,False,True,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,True,True
 8510-TMWYB,0,54,59.8,3246.45,False,True,True,True,False,True,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
-3258-ZKPAI,0,72,114.71682,8037.867479999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
+3258-ZKPAI,0,72,114.729,8039.255999999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 1428-IEDPR,0,52,109.3,5731.4,True,False,False,True,False,True,True,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False
 5298-GSTLM,1,60,101.4,6176.6,False,False,False,True,False,True,True,False,False,True,False,False,False,False,False,False,False,True,False,True,True,False,True,False,False,False,False
 4450-YOOHP,0,39,50.65,1905.4,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,True,True,False,False,False
@@ -6450,7 +6450,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 3685-YLCMQ,0,58,104.65,6219.6,True,False,False,True,False,True,True,False,False,False,False,False,False,True,False,True,False,True,False,True,True,False,True,False,True,False,True
 7601-WFVZV,0,1,19.55,19.9,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,True,False
 4609-KNNWG,0,27,19.9,550.1,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
-4868-AADLV,1,66,114.71682,7862.25,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False
+4868-AADLV,1,66,114.729,7862.25,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,True,False,True,False,False
 9529-OFXHY,0,15,87.75,1242.2,True,False,False,True,False,True,True,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False
 8634-MPHTR,1,47,100.05,4871.05,True,True,False,True,False,True,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,True,False,True,False,True
 2669-QVCRG,0,41,81.3,3190.65,False,False,False,True,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False
@@ -6536,7 +6536,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 5195-KPUNQ,1,53,96.75,5206.55,False,False,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True,True,False,True,False,False,True,False
 0520-FDVVT,0,35,102.35,3626.1,True,False,False,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True,False,True,True,False,True,False,False,False,True
 3439-GVUSX,0,1,24.4,24.4,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
-1444-VVSGW,0,70,114.71682,7968.85,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,True,False,False,True
+1444-VVSGW,0,70,114.729,7968.85,True,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,True,False,False,True,False,False,True
 5712-PTIWW,0,2,79.85,152.45,True,False,False,True,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,True,False,True
 5949-HGVJL,0,26,73.05,1959.5,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False,True,False,True,False,False,True,False,True,False,False
 5203-XEHAX,0,34,64.35,2053.05,False,False,False,True,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,True,False,False,False,True,False,False
@@ -6565,7 +6565,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 6906-ANDWJ,0,15,74.9,1107.25,True,True,True,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True
 2159-TURXX,0,5,20.05,95.55,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False,False,False
 1548-FEHVL,0,61,106.2,6375.2,True,True,False,True,False,True,True,False,False,True,False,True,False,False,False,False,False,True,False,True,False,False,True,False,True,False,False
-3795-CAWEX,0,70,114.71682,8037.867479999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
+3795-CAWEX,0,70,114.729,8039.255999999999,True,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False
 6215-NQCPY,0,15,99.7,1566.75,True,False,False,True,False,True,True,False,False,True,False,False,False,False,False,False,False,True,False,True,False,False,True,False,True,False,False
 5647-URDKA,0,8,19.7,130.25,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
 2229-DPMBI,0,8,19.5,162.15,False,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False,False,True,False
@@ -6727,7 +6727,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 2061-VVFST,0,37,19.5,805.2,False,True,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False,False,False,False
 0685-MLYYM,1,2,70.75,154.85,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True
 0749-IRGQE,1,13,45.3,528.45,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,True,False,False
-2380-DAMQP,0,72,114.71682,8037.867479999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False
+2380-DAMQP,0,72,114.729,8039.255999999999,False,True,False,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,False
 2256-YLYLP,0,68,72.95,4953.25,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False,True,False,True,True,False,False,False,False
 1272-ILHFG,0,15,19.65,332.65,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False
 0164-XAIRP,0,24,19.55,470.2,False,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,False,False,False
@@ -6767,7 +6767,7 @@ customerID,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,gender_Male,Partner_
 5115-SQAAU,0,69,25.6,1673.4,False,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,True,False,False,False,False
 9845-QOMAD,0,14,19.75,309.35,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False,False,True,False
 7672-VFMXZ,0,57,55.7,3171.6,True,True,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False
-9739-JLPQJ,0,72,114.71682,8037.867479999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
+9739-JLPQJ,0,72,114.729,8039.255999999999,False,True,True,True,False,True,True,False,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,True,False,False,False
 9916-AYHTC,0,48,19.85,916.0,True,False,False,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,True,False,True,False,False,False
 3855-ONCAR,0,4,78.9,299.75,False,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,True,False
 1488-SYSFC,0,31,20.65,702.05,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False,False,False,True,False,True,False,False
